@@ -25,7 +25,11 @@ for img in req_image:
     txt = pytesseract.image_to_string(PI.open(io.BytesIO(img)))
     final_text.append(txt)
 
-print(final_text)
+with open('ocrPDF.txt', 'a') as file:
+    for x in final_text:
+        file.write(x + '\n')
+
+
 
 #now lets convert the PDF to Image
     #this is good resolution As far as I know

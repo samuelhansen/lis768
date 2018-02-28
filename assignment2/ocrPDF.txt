@@ -1,0 +1,1500 @@
+ON THE PADE APPROXIMANTS ASSOCIATED WITH THE
+CONTINUED FRACTION AND SERIES OF STIELTJES*
+
+BY
+HUBERT S. WALL
+
+INTRODUCTION
+
+The well known series of Stieltjes is a power series with real coeﬂicients:
+
+m ———+——~-
+
+such. that the persymmetric determinants
+
+Co ,61,"',6n—1 61, 62,"',Cn
+
+01 ’62,"°,0n 62, 63,"',€n+1
+An E , B” E
+
+cn-ly 6n, ' ° ' 2 6211—2 6n, cn+1y ' . ° ’ C2n—l
+
+(n=1, 2, 3, - - - , A051, Baal) are all positive. StieltjesT connected the
+series (1) with a continued fraction
+
+1 1 1
+012+ 02 +aaz+---
+in which all the a.- are real and poSitive, and are uniquely determined by the
+c; in accordance with the relations
+
+(3) a2n = Arg/(Ban—l) ’ a2n+l = Bn2/(AnAn+l) -
+
+Conversely, the positive real numbers (1.- (i=1, 2, 3, . - - ) uniquely deter-
+mine coeﬂicients c.- of a Stieltjes power series. T hus to every Stieltjes con-
+tinued fraction (2) with positive a.- there corresponds a Stieltjes series (1)
+and vice versa.
+
+In the work of Stieltjes the convergents of (2) separate into two sets,
+the odd and the even convergents. When the seriesi Ea; is divergent, these
+
+(2)
+
+* Presented to the Society, April 16, 1927; received by the editors June 11, 1928. This paper
+is essentially a thesis prepared at the suggestion of Professor E. B. Van Vleck at the University of
+Wisconsin.
+
+1' Recherche: sur les fractions continues, Annales de Toulouse, vol. 8, J, pp. 1—122, and vol. 9,
+A, pp. 1-47, 1894—95. Published also in vol. 32 of the M émoz’res présentés (1 PA cadémz'e des Sciences
+dc l’I nstitut N ational de France.
+
+I Here and henceforth we write: in place of Z
+91
+
+co
+i=1'
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+92 H. S. WALL [January
+
+two sets of alternate convergents have one and the same limit which is a
+function analytic throughout the complex plane, excepting the whole or a
+part of the negative real axis. When, on the other hand, the series Ea;
+converges, these two sets have distinct limits pl/ql and p/q respectively,
+which are meromorphic functions having only simple poles all of which are
+real and non-positive. The numerators and denominators 12, 121, q, ql are ana-
+lytic functions between which there is the relation
+
+(4) P14 — P91 = +1.
+
+In the case of a convergent Stieltjes series (1) the former alternative is
+always'realized, but for a divergent series either alternative may be realized.
+Thus for some divergent series the continued fraction of Stieltjes picks out
+two functional equivalents, while for others only a single equivalent is yielded.
+
+In this article it Will berconvenient to replace 1/2 by z in (1) and (2) and
+then drop the unessential factor 2. We then have the Stieltjes series
+
+(5) Co—Clz+6222—6323+"°
+with the same inequalities:
+(6) A" > 0, B, > 0,
+while the continued fraction becomes
+
+1 z z z-
+(7)
+
+01+02+ 03+ a4+°°-.
+When Ea.- is convergent, the two sets of alternate convergents have
+limits which are distinct and meromorphic over the entire plane except at
+
+the origin, while if 2a.- is divergent both sets have the same limit which
+
+is a function analytic over the entire plane except the whole or a part of the
+negative real axis.
+
+With any power series
+
+(8) k0 + klz + 13222 + ° ° ° (’30 9‘ 0):
+
+Padé connects a table of approximants*
+
+ 
+
+"' Padé, Thesis, published in the Annales de l’Ecole Normale Supérieure, (3). vol 0. supple-
+ment, pp. 1-93,- 1892.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+1929] PADE APPROXIMANTS F OR STIELTJES SERIES 93
+
+where Nm,,.(z)/D,.,n(z) is the rational fraction, taken in its lowest terms,
+in which the degrees of numerator and denominator do not exceed n and m
+respectively, and whose expansion into a power series, P(z), agrees With (8)
+for a greater number of terms than any other such rational fraction.
+
+If a particular approximant does not appear more than once in the table,
+that approximant is said to be normal, and When every approximant is
+normal, the table is called normal. The power series P(z) for a normal
+approximant, in Which neceSsarily the degrees of numerator and denominator
+are exactly n and m respectively, agrees With the given series term by term
+up to and including the term of degree m+n and no further.
+
+Professor Van Vleck* showed that the series of Stieltjes (5) has a normal
+Padé table. The odd convergents of the continued fraction (7) ﬁll the
+principal diagonal of the table, While the even convergents ﬁll the parallel
+diagonal ﬁle immediately below it. Consequently these two diagonal ﬁles
+of approximants Will either converge to a common limit analytic throughout
+the entire plane except over the Whole or a part of the negative real axis,
+or to two distinct functions, meromorphic everywhere except at the origin,
+according as Ea; diverges or converges.
+
+The ﬁrst main question which I have considered in this article is the
+following:
+
+1. What holds regarding ,the convergence of the other diagonal ﬁles parallel
+to the principal diagonal in the Padé table for the series of S tieltjes?
+
+I ﬁnd that the sequence of convergents in any ﬁle parallel to the principal
+diagonal converges to a limit. Three cases arise.
+
+Case I. If the series 2a.- is convergent, no two ﬁles to the right of and
+parallel to the principal diagonal have the same limit, and no two parallel
+ﬁles below the principal diagonal have the same limit. In this case all the
+limit functions are meromorphic over the entire plane except at the origin.
+The poles of the limits of the ﬁles to the right of the principal diagonal are
+all simple and lie upon the negative half of the real axis.
+
+When 2a.- diverges there are two possibilities which exist, namely:
+
+Case II. The ﬁle of approximants in the principal diagonal and the
+successive parallel ﬁles to the right of it up to the nth ﬁle inclusive converge
+to one and the same limit, while subsequent to the nth they converge to
+distinct limits. Likewise the successive parallel ﬁles below the principal
+diagonal, doWn to an mth ﬁle inclusive, may converge to the same limit,
+While subsequent to the mth ﬁle they converge to distinct limits.
+
+* On an extension of the 1894 memoir of Stieltjes, these Transactions, vol. 4 (1903), pp. 297—332.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+94 H. S. WALL [January
+
+All the limit functions in this case are meromorphic over the entire plane
+except at the origin.
+
+Case III. Every diagonal ﬁle parallel to the principal diagonal converges
+to one and the same function, which is analytic over the entire plane excepting
+the whole or a part of the negative half of the real axis.
+
+In Case I, the series (5) diverges, while in Cases II and III it may either
+diverge or converge. Whereas Stieltjes obtained two distinct functional
+equivalents of the divergent series (5) in Case I, we now have an inﬁnite set;
+and whereas Stieltjes obtained a single functional equivalent when 2a;
+diverges, I obtain an inﬁnite number in Case II, and but one in Case III.
+
+Generalizing (1), I shall call any series
+
+(9) f(CoZ" — Clzﬂ‘l‘l + C2zﬂ+2 _ . . . ),
+
+in which n is a positive or negative integer or zero, a Stieltjes series if the
+coefﬁ cients c.- satisfy the Stieltjes inequalities (6).
+
+If the ﬁrst n terms of (5) be removed, the remainder is still a Stieltjes
+series. Instead of removing terms I have concerned myself with the following
+question:
+
+2. Can the series (5) be so continued to the left by successive addition of new
+terms that the extended series shall be S tieltjes series?
+
+I ﬁnd that the necessary and suﬂicient condition for a ﬁrst extension
+is that the series Saw with even subscripts, shall converge.
+
+Two cases arise:
+
+Case A. If the series 2a.- converges, the Stieltjes series (5) may be
+extended to the left by the addition of an arbitrary number of new terms,
+forming thereby a series whose coeﬂicients satisfy the Stieltjes inequalities
+(6). The coeﬂicients of the preﬁxed terms are not unique.
+
+Case B. If the series 2a.- diverges and 202; converges, the series (5)
+may be extended by the addition of a term, —c_lz-1, in which (3.1 may be
+taken equal to or greater than 2025. If 6-1 >Za2;, further extension is never
+possible; but if c-1=2a2.«, the like series Zaé; in the new Stieltjes continued
+fraction belonging to the extended series may or may not converge. If it does
+converge, a second extension is possible. The coeﬂicient of the new term,
+0-22—2, preﬁxed may be taken equal to or greater than Zaég. Only if 6.:
+=2:th can a third term be preﬁxed, and so on.
+
+When n terms can be preﬁxed, all the coeﬂicients in the added terms are
+unique with the exception of c_,.. For an inﬁnite extension all the coefﬁcients
+are unique. There exist series which can be extended to just 72 terms and
+others which can be inﬁnitely extended.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+1929] PADE APPROXIMANTS FOR STIE‘LTJES SERIES 95
+
+CHAPTER I. THE FADE TABLE OF APPROXIMANTS
+
+To each pair of non-negative integers (m, n) there corresponds one
+rational function of the complex variable z=x+z°y: N ,,.,,.(z) /D,,'.,,.(z) taken
+in its lowest terms, in which the degrees of numerator and denominator do
+not exceed n and m respectively, and whose expansion into a series in ascend—
+
+ing powers of z agrees term by term with a given series
+(8) k0 + klz + [€222 + ° ' ' (k0 #0)
+
+to a higher degree than all other such rational functions. In fact, if we let
+N,,,.(z)=so+slz+ - - - +s,.z" and Dm,n(z)=to+tlz+ - - - +tmz'", the con-
+ditions that the series
+
+(10) (ko+ klz + - ~ - )(to+ tlz + - - - + tmzm) - (30+ slz_+ - - - + w")
+shall begin with the (m+n) th power of z are the following:
+
+(11) kilo + ki—ltl + ° ' ° + ki—mtm = 3i
+(i=0,1,~-,n; kj=o if .j<0),
+(12) kn+it0 + kn+i—-1tl + ' ' ‘ + kn+i—mtm = 0
+(i=1,2,---,m; kj=0 if j<0).
+If we take to equal to the determinant
+kn—m+l . . . kn
+Am—lm E . . . ,
+kn ... kn+m_1
+
+and assume Amlhmo, then all the other t,- and also the s.- are determined
+uniquely, and N m. and D,” may be written in the form of determinants:
+
+kn_m+1 ° ° - kn kn_mZ" + kn_m_12""l + ' ' - + 1802'”
+(13) Nm.n(Z) = ' ' ° ' ,
+kn“ - - - kn+m knz” + kn—lzn—l + ' ‘ - + k0
+kn—m+l . . . kn zm
+(14) Dm,n(z) =
+
+kn-i-l ' ' ' kn+m 1
+
+The table of approximants is normal when and only when all the de-
+
+terminants
+kn—m . . . kn
+
+A __ <m,n=0,1,2,---)
+"”— ki=o, fori<0
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+96 H. S. WALL [January
+
+are different from zero.* We will henceforth assume the normality of the
+table.
+
+In a normal table Padé distinguished three types of regular continued
+fractions. We shall need to use here the stairlike type. This is obtained by
+starting from a border element of the table of approximants, and passing
+hence alternately one step to the right and one downward or vice versa.
+If, for example, we start from the nth element of the upper border of the table
+and proceed hence one step to the right and one down alternately, we get
+the sequence of approximants
+
+No.n—1(Z) No,n(Z) N1.n(Z) N1.n+1(z) . . .
+Do.n—1(Z) Do.n(2) D1,n(z) D1,n+l(z)
+
+whose terms are the successive convergents of the continued fraction
+
+(15)
+
+ 
+
+ 
+
+ 
+
+1 z z
+2 . . . n—l n
+(16) k0 + klz + [222 + + kn—lz + 3 [him + ’12“) + ha“) + . . J,
+in which
+(17) h(n) _ Aiz~l,i+n—1 h(n) _ Atz—lJ-I-n
+25———'—-——————! 2i1——’—_"—‘—"-
+Ai—l.i+nAi-2.i+n—1 + Ai—l,i+n—1Ai.i+n
+
+If we start with the corner element of the table and proceed hence one
+step downward and one to the right alternately, we get the sequence of
+approximants
+
+(18) No.0(2) N1,o(z) N1,1(z) N2.1(Z)
+
+Do.o(z)’ D1.0(z)’ D1.1(Z), 132.1(2),
+
+ 
+
+ 
+
+ 
+
+ 
+
+whose terms are the successive convergents of a continued fraction
+
+1 z z z
+(19) —- —— -— -—-— ,
+01+a2+03+04+°'°
+in which
+13.2—15.1 133—1.;
+02; = '— —'—-————r a2i+l =
+Ai—1,iAi—2,i—1 Ai—1.£—1Ai.i
+
+It is to be understood that A_1,o is to be taken here and hereafter equal to
+unity.
+
+If now the continued fraction (16) converges, the two adjacent diagonal
+ﬁles of the table from which (15) is obtained by selecting approximants
+from each alternately, converge to one and the same limit, namely the limit
+of (16). On the other hand, if these two diagonal ﬁles converge to separate
+
+ 
+
+‘ For details, see Padé, Thesis, loc. cit; or O. Perron, Die Lehre van den Kettenbrﬁchen, 1913,
+Chap. X, pp. 418-465.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+1929] PADE APPROXIMANTS FOR STIELTJES SERIES 97
+
+limits, the sequences of alternate convergents of (16) must have separate limits.
+
+It is easily seen that not only does the series (8) uniquely determine the
+continued fraction (19) in the case of a normal table but conversely (19)
+determines the series. The study of the convergence of the ﬁles of approxi-
+mants parallel to the principal diagonal of the table can therefore be made to
+depend upon the sequence of numbers a.- in (19). In the next chapter such a
+study is made for the diagonal ﬁles to the right of the principal diagonal of
+the table in the case of the continued fraction of Stieltjes.
+
+To investigate the convergence of the diagonal ﬁles below the principal
+diagonal Which start on the left border of the table, I ﬁnd it desirable to turn
+to the Padé table of the reciprocal series
+
+(20) 60 + 612 + 6222 + 532:3 + - . . ,
+Which is determined by the identity
+(21) (ko+klz+'°')(5o+5lz+“‘)=1-
+
+The approximant corresponding to (m, n) for this series is the reciprocal of
+the approximant corresponding to (n, m) for the original series (8) ;. and When,
+as supposed, the Padé table of (8) is normal, the table of the reciprocal series
+is also normal, inasmuch as the ﬁrst m+n+_1 terms of the latter series are
+determined by the ﬁrst m+n+1 terms of the former and conversely. Thus
+the question of the convergence of the diagonal ﬁles to the left of the principal
+diagonal in a normal Padé table may be replaced by the consideration of the
+
+convergence of the diagonal ﬁles to the right of the principal diagonal in the
+table of the reciprocal series.
+
+Let now N,’.,,,.(z)/D,’,,,,.(z), m>n, be an approximant of the series (20).
+
+Then
+(22) DIM. = w(m,n — m) Nmm,
+(23) N;,m = w(m,n — m)D,,.,,.,
+
+where w(m, n—m) is a numerical factor independent of 2. By (13), (14) the
+relation (22) may be written
+
+5,,._m+1~-a,. , z"
+(24)
+5n+1 ---5,,+,,., 2°51
+
+km—n+l . O . km, an2m + km_n_1z’"_1 + ' ‘ ‘
+
+= 'w(m,n—m) ,
+
+km+l . . . km+ny kmzm + km_1z"‘_1 + ' ° -
+
+with a similar equation resulting from (23).
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+98 H. s. WALL [January
+
+On setting z=0, and replacing n by n+m in (24) the latter becomes
+(25) mI—lJH-m = k0w(m;n)'AMl-'z- m:
+
+where A4,” denotes the determinant Am,” expressed in terms of the 6.-
+
+instead of the kg.
+We will now determine the constant w(m, n).
+
+F mm the identity (21) we have
+50kg = 1,
+
+51/80 + 6ok1
+
+II
+o
+
+(26)
+
+5nko + 6n—lkl + ' ' ° + 50131; = 0,
+
+which gives
+1
+
+(27) 5n = (_ 1)n(n+1)/2.
+
+ 
+
+Also, setting m =1 and replacing n by n —1 in (25) we have
+
+(28) 6" = ko‘ll)(1,n _ 1)An—l,l,
+which with (27) gives
+
+1
+(29) w(1,n) = (_ 1)(n+1)(n+2)/2.;}E.
+
+Ishall now prove by mathematical induction that*
+
+1
+(30) w(m,n) ( 1) k02m+n+1
+
+ 
+
+We see from (29) that the value of w(m, n) given by (30) is correct for
+
+all values of n if m = 1.
+I shall assume the correctness of formula (30) for all values of it when
+
+m=1, 2, 3, - - - , p—l, and prove, on that hypothesis, that it is correct for
+
+m =1), and hence for all m.
+By a well known rule for multiplying a determinant by one of its minors,
+
+/ I _ I 2
+9—2 .n+p—1 p—2 .n+p+1 (Ap—2 .n+p)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(31) Ap'—1m+p = “7—— ~ — '
+?_3vn‘i’p
+Then by (25) and what we have assumed; (31) may be written
+_ 2
+(_ 1)(n+1>(n+2)/2+p—1l:__é"+p"’_‘_] _ ___A_’Lﬂ—l'p‘l _]
+An+p—1.10 An+p—l.pAn+p—2.p—l
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(32) Ap’—1m+p= ———-——
+_ k02p+n+2(An+p—l.p—2/An+p—l .pAn+p—2.p—l)
+
+‘ Cf. Hadarhard, Liouville’s Journal, (4), vol. 8 (1892), §24, p. 138. Hadamard obtains (25)
+with w(m, n) as in (30) but by a different method.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+1929] PADE APPROXIMANTS FOR STIELTJES SERIES 99'
+
+But by the above mentioned rule for multiplying a determinant by one of its
+minors, the quantity within the bracket is equal to —A,.+,_1,,_2/A,,+,_2,,_1.
+Consequently, (32) may be written
+
+(_ 1)(n+1) (n+2) /2+p-1A
+(33) API—l ,n+p =
+
+“+P-10P
+ko2p+n+2
+
+Comparison of (25) and (33) shows that the value of w(m, n) as given by
+(30) is correct for m = p, as was to be proved.
+As particular instances of (25) we have
+
+(34) "1.1.... = (_1)mAm—1.m/k02m’
+(35) Am’-l.m—l = ( — 1)"“1A:pz-2.m/kozm-l -
+
+Due to symmetry of the identity (21), the 6,- and the k.- may be inter-
+changed in (35), giving the relation
+
+(36) mI—2.m = (— 1)m—1Am—l,m—l/k02m—1.
+
+We will now consider the continued fraction of the form (19) belonging
+to the normal* series
+
+(37) 51+azz+azz2+---.
+If we denote by a.’ the a,- obtained from (37), then by (34), (35), and (36) we
+obtain
+0;: = — (Ai'—1.i)2/[Af—1.i+1Ai'—2.i] = A?-1.i/[Ai.iAi—1.i—1] = d2i+1,
+a’2;+1 = (Ai—mu 2/[ .-’_'1,;A.-',.-+1] = — Ai,.~/ [A,_1,.A;,;+1] = 02:42-
+
+We have thus proved the following theorem:
+
+THEOREM 1. If ko+klz+k229+ - - - is (my normal power series giving rise
+to the continued fraction
+1 z z
+(38) —— —— ——
+01+02+03+"'
+
+and 60+6lz+6223+ - - ' its reciprocal, then the continued fraction of the form
+(19) associated with the series 51+522+6323+ - - - 2's
+
+1 z z
+
+(39) —— — — .
+02+03+04+°"
+
+* A normal series is one giving rise to a normal Padé table.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+.1 00 H. S. WALL [January
+
+CHAPTER II. THE CONVERGENCE OF THE DIAGONAL FILES. FOR THE SERIES
+01? STIELTJES
+
+I pass now to the series of Stieltjes
+
+(5) co—clz-chzz—n
+
+The work of the preceding chapter is applicable here if we replace through-
+out k2; by 62; and kaH by —62.'_1. In particular the continued fraction (16)
+
+becomes*
+1 z z
+
+40 an+-z"[— —— — ],
+
+() O ( ) a1”+az"+aa"+~--
+
+Where G,.(z)=co—c1z+ - - - +(-—1)"“lc,._lz"—l and the 0;" are obtained by
+replacing every kg," by (-1)"c.-+n in (17). It is easily seen that now, in place
+of (17), we have
+
+0;: = A3—1,i+n-1/[Ai—1,i+nAi—2,i+n_1] ,
+(41) n
+
+02i+1 = Aig—l,i+n/ [Ai—1.i+n—1Ai,i+n],
+,in which it is to be understood that the Am,” are the same as in Chapter I
+with every k; replaced by c.-.
+
+In particular,
+
+02; = Aiz/(BiBi—l) = A3—1,i—1/(Ai_1,iAi—gJ—i),
+a2£+1 = Biz/(Av‘AHl) = A3—1,£/(Ai—1,i_1Ai.i).
+
+Thus each a.” is obtained from the corresponding a.- by means of the
+substitution of cm. for 6,- throughout.
+
+Since, by'hypothesis, An and B”, for n=1, 2, 3, - . - , are positive, all
+the determinants Am,n formed from them by removing the ﬁrst r rows
+and r columns are positiveT Therefore, in (40), the bracketed part,
+
+(42)
+
+1 ‘z z
+—_ — *— ,
+al"+a2"+aa"+---
+
+is a continued fraction of Stieltjes with positive a;”. We may therefore apply
+his convergence results for the continued fraction (2), bearing in mind that,
+as noted in the introduction, 2 has been replaced by 1/2 in (2) and then the
+factor 2 has been dropped. It is readily seen that if P.?(z), Q;(z) denote the
+numerator and denominator of the convergents of (2) (after a.- has been re-
+
+(43)
+
+" Henceforth for convenience I write a? in place of 0(2).
+
+1‘ Sylvester, Philosophical Magazine, (4), vol. 4 (1852), pp. 140-141.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+1929] PADE APPROXIMANTS FOR STIELTJES SERIES 101
+
+placed by a9), and if P{(z), Q;’(z) denote the corresponding numerators
+and denominators of (43), then*
+
+I . 1 I 1
+P2;(z) = z“1P2.-(—-), Q2£(Z) = Z‘Q2i<—),
+z z
+I . 1 I . 1
+P2i+1(Z) = Z‘P2i+1<—z—>, Q21+1(Z) = Z’+1Q25+1(—z‘)o
+
+The sequence of convergents accordingly separates into two sets, the even
+and the odd convergents. Stieltjes showed that when Ea? is convergent,
+the numerators and denominators of the even convergents converge to
+limits p(z), g(z) respectively; likewise those of the odd convergents to limits
+p1(z), q1‘(z), and these limits are entire functions whose zeros all lie upon the
+negative half of the real axis. These functions are connected by the relation
+
+(44) P1(Z)q(2) - P(Z)q1(2) = 1.
+
+On the other hand, when 2a? is divergent, the even and the odd convergents
+Converge to a common function F (2) which is analytic over the entire plane
+excepting the whole or a part of the negative half of the real axis.
+
+If now we denote the ith convergent of (40) by U .-(z)/ V,-(z), we have
+
+U-<> PK) “(1’)
+‘2 ‘7' =Gn<z>—<-z>»-l ”
+
+V;(z) + z Qs’ (2) Q; (i).
+
+Z
+
+ 
+
+(45)
+
+ 
+
+ 
+
+The odd and even convergents of (40) ﬁll respectively the nth and (n+1)st
+diagonal ﬁles of the Padé table. When 2a,” is convergent, they have separate
+limits in consequence of the foregoing results of Stieltjes, and these limits
+
+are meromorphic over the entire plane except at z=0, with poles lying only
+upon the negative half of the real axis. If now we put
+
+W) = Game) — <— z) "-112 (313—)
+2(2) = q<é>
+
+the limit of the even convergents U 2,-(2) / V2;(z), for i= 0° , is u(z)/22(z). Simi-
+larly the limit of the odd convergents will be u1(z)/v1(z) where ul and v1
+
+"‘ Cf. the formulas for P;(z), Qg(z) given by Stieltjes, loc. cit., §2.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+102 H. S. WALL [January
+
+are the same as u and 7) except that p, q are replaced by p1, ql. In consequence
+of (44) we have the relation
+
+(46) “(2)v1(2) - u1(z)v(Z) = (— Z)“-
+
+When 2a.” is divergent, the application of the results of Stieltjes to (45)
+shows immediately that the two sets of convergents have a common limit
+which is analytic over the entire plane except the whole or a part of the
+negative real axis. We conclude therefore that whether Ea.” converges or
+diverges every diagonal ﬁle of approximants to the right of the principal
+diagonal converges.
+
+For a complete discussion of the relationship between the limits of these
+ﬁles we shall need to connect our successive series 2a? with the primary
+series Zag. For that purpose I shall now obtain expressions for the a.” in
+terms of the a?-1.
+
+Let the numerator and denominator of the ith convergent of (40) be
+denoted by U 2‘ (z) and V? (2). Except for a common numerical factor, these
+may be obtained from (13) and (14). Thus, in particular, on setting m=k
+and replacing n by n+k in (14) and introducing this factor, we have*
+
+Cn+1 )"')C9l+k’ zk
+(47) V21+1<—z>=<— 1>k . - - - :AW.
+
+Cn+k+b ' ’ ' , Cn+2k: 1
+
+F mm (47) we see that the coefﬁcient of 2* in V2k+1(z) is Ak_1,n+k+1/Ak_n+k.
+Now V2k+1(z) is the denominator of the (2k+1)st convergent of the Stieltjes
+continued fraction (43), and it is easily proved by mathematical induction
+that the coeﬂicient of z" is also (11" +a5‘ + - - - +a3k+1. Therefore
+
+(48) 01" + 03" + ' ‘ ' 'l‘ agk+1 = Ak—l,n+k+1/Ak,n+k-
+
+n—l
+
+If new we form by (41) the ratios agi/amﬂ and aZHI/agﬁﬁz and then
+employ (48), we obtain the very fundamental relationsT
+
+ 
+
+12—1
+9: 02i+1
+(49) a2i=T i — (7Z=1,2,3,"'),
+11—1 71—1
+2: 02i+1 Z: a2i+l
+i=0 i=0
+
+* Cf. Perron, loc.’ cit., p. 428. Note that Perron’s Aw, differs by a factor (-—1)““‘“’” from that
+used by me.
+
+1‘ After this article was ﬁnished I found these relations (unused) in Stieltjes, loc. cit., §78.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+1929] PADE APPROXIMANTS FOR STIELTJES SERIES 103
+
+ 
+
+ 
+
+and
+(50) 0:141" = a2i+2( 202i+1)2o
+For n=0 we are to understand that a2_=_a.- (i=1, 2, 3, - - -).
+Equation (49) may evidently be written in the form
+n 1 1
+
+(49a) 02,-: .1 ———-——-——-
+
+’- n—l
+
+025+1 20214-1
+i=0 £80
+
+It now follows from (49) that when 202: 1 is convergent and has the limit
+L, then from and after some index 1,
+
+n 11-1
+02; < d2i+1/(L — (3)2:
+
+where e is an arbitrary ﬁxed positive number. Therefore Ea;- is convergent
+when Za§¢_1 is convergent. F urthermore, Zag; is convergent even when
+202-1 is divergent. For by summing (49a) for z'= 1, 2, 3, - . - , k, we get
+
+k n 1 1
+
+a2.- = ' 2
+
+2021111
+
+i=0
+
+ 
+
+ 
+
+and this has the limit 1/ af—l when k becomes inﬁnite. We thus have proved
+the theorem:
+
+THEOREM 2. The successive series Zagi, n = 1, 2, 3, - . - , are all convergent.
+
+We now turn to the series with odd subscripts, ZaS‘H. We see at once by
+(50) that, when zla?‘l is convergent,
+n 11—] .
+a2i+1 < a2i+2(L’)2 (z = 0,1,2; ' ' ‘ )>
+where L’ =Zag‘f.‘ 1, and therefore 2a.” is convergent. Taking n = 1, 2, 3,
+in succession, we obtain at once the following theorem:
+
+THEOREM 3. If in the Stieltjes continued fraction (7) the series Ea.- is
+convergent, then all the associated series 2a,”, n = 1, 2, 3, - - - , are convergent.
+
+Consider next the case in which Zai diverges. Then, while 20;,- will
+necessarily converge, 2021);..1 may either converge or diverge. On the former
+hypothesis all subsequent series 2a.”, n=2, 3, 4, - - - , must converge, by
+application of Theorem 3. If Zaém diverges, then as before Zaggmust con-
+verge but Za§;_1 may either converge or diverge, etc. Proceeding in this
+manner we perceive that in addition to the possibility of the convergence of
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+104 H. S. WALL [January
+
+all 2a.”, n=0, 1, 2, - - - , Case I, there are just two other possibilities:
+either, Case II, all of the series 2a,", n=0, 1, 2, . - . , will diverge; or else,
+Case III, the ﬁrst r will diverge while all subsequent to the rth will converge.
+
+It remains to see that both the last possibilities can be realized. For this
+purpose the following lemma will be established.
+
+LEMMAl. Let
+b1+b2+b3+°"
+
+be any divergent series in which there is a limit to the ratio b;/b.'_11 lim b;/ 12,--1 = s .
+Then if s 21 we have
+
+, bi+bz+“'+bi+k
+llm-—-————-——— =s".
+
+i“. b1+b2+---+b.-—
+
+According to the hypothesis, we may take a ﬁxed j sufﬁciently large to
+insure that b,-+k+,-/b,-+.- (1320) shall lie between the limits sk—e’/2 and
+s*+e’/2 where e’ is an arbitrarily small prescribed positive quantity. Then
+
+bi+k + bi+k+1 + ‘ ‘ ‘+ bi+k+t
+
+b,-+b,+1+-°-+b,-+,-
+b1+bz+ "’+bj+k—1
+
+1- b1+b2+ - - -+b,-+k+.- b1+ b2 + - - - + 12,4“..-
+b1+b2+-~‘+b,-.1'bl+b2+-~+b,-+.-
+b1+b2+"'+bj+i
+
+will lie between the same limits inasmuch as the ratio of each term of the
+
+numerator of the left member to the corresponding term of the denominator
+
+lies between these limits. But since 2b,- = + co , the ﬁrst factor on the right
+by taking i suﬂiciently large, say for i>N, becomes 1/ (1 +e”), wherele” I <e’.
+
+ 
+
+1—
+
+ 
+
+ 
+
+Thus
+b+b+"’+b' i
+_:___2____..__’+’°+ -—s" §e’(s’°+2)<e if e’< e ,z'>N.
+b1+b2+"'+bj+i 3k+2
+
+The lemma accordingly results.
+Construct now a Stieltjes continued fraction for which lim (a2.-+1 / (12,--1) =3,
+
+lim(a2.-/a2.-_2) :7. Let O<r<1, s>1. Then by the lemma and (49), (50)
+for n =1 we obtain
+
+lim (d;.‘+1/d;i..1)= r32, lim (aég/aépg) = 1/3.
+
+5.-“ i=m
+
+If we so choose 5 that rsz<1, 1/s<1, then Ea.- will diverge while 21.1
+will converge; But if rs”>1, 1/s<1, 2a} as well as 2a.- will diverge. In
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+1929] PADE APPROXIMANTS FOR STIELTJES SERIES 105
+
+the latter event, we may again apply the lemma and (49), (50) for n =2 and
+obtain '
+
+lim (a:;+1/a:.-_1) = r233, lim (0225/03.;2) = 1/ (r32).
+
+If we so choose 3 that rs’> 1, r2s3<1, the series 20;, Ext.-1 will diverge,
+while 2a,? will converge. But if r233 > 1, 1/(rs’) <1, 2a., Ea} , and 2a? will
+all diverge, and we may again apply the lemma, etc.
+
+Continuing in this manner we ﬁnd that if 0<r< 1, 1/r("‘l)/ k<s<
+1/r*/‘*+1), all of the series 20;, 2a}, - - - , Ea?" will diverge, while the
+series Zaf, Ea? +1, - - - , will converge. When 3; 1/7, all of the series Zaﬁ,
+n =0, 1, 2, 3, - - - , are divergent. Thus the two possibilities indicated above
+when 2a,- is divergent can be realized.
+
+Whenever the Stieltjes series (5) is convergent, the series cn—anz
+
++cn+222- ~ - ~ , n=1, 2, 3, - - - , are convergent, and therefore the numbers
+1/(az'a, +1), i=1, 2, 3, - . - , must be bounded for each n=1, 2, 3, - - ~ .*
+Hence none of the associated series 2a.”, n = 1, 2, 3, - - - , can be convergent.
+
+These associated series may also diverge even when the Stieltjes series (5)
+is divergent. For consider the Stieltjes continued fraction for which 025-1
+=1/(ir‘), a2;=r‘, O<r<1. In this the numbers 1/(a.~a.-+1) increase without
+limit, and lim(a2;+1/a2.--1)=1/r, lim(a2.-+2/a2.-)=r. Accordingly the series
+(5) and the associated series diverge.
+
+We have seen that there are three cases which arise. Of these we will now
+consider the ﬁrst.
+
+Case I. The series Ea.- is convergent.
+
+T hen by Theorem 3 all the series 2a,”, 12 = 1, 2, 3, - - - , converge. Hence
+by the discussion at the beginning of the chapter, all the diagonal ﬁles of
+approximants which lie to the right of the principal diagonal have limits
+which are meromorphic over the entire plane excepting z=0; with poles
+lying only on the negative half of the real axis; and the limits for no two
+
+successive ﬁles are identical.
+To show that no two of these diagonal ﬁles have the same limit, I will
+
+show that for two of the denominators 21,, of these limits the roots of 22,.(1/2)
+(diﬂerent from 0) nearest the origin are distinct.
+
+Stieltjes found that the roots of Q2k(z) and Q2k+l(z) for (2) are all real,
+non-positive, distinct, and separate each other. The former is of degree k
+and has no root equal to zero, while the latter is of degree k+1 and has a
+zero root. The same is true of Q3142), and Q3k+1(z), obtained from these by
+
+"‘ Cf. Stieltjes, loc. cit., §10.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+106 H. S. WALL [January
+
+replacing a.- by a-r. If then we denote by mm and 715"“) the non-Zero root
+nearest the origin of Q3k(z) and Q3k+1(z), we have
+
+rk(")>rk("+1)- (n=1,2,3,--- ;k=1,2,3,"‘).
+
+But 1'15"“) is also the non-zero root nearest the origin of Q3k+l(z). If then we
+let k—WO, 71“") will approach a limit Rn750, and this limit is the non-zero
+root nearest the origin of the limit function vn(1/z).* We have
+
+(ﬂ) Egkguﬁg&2~
+
+The equality sign can nowhere hold in (51), since, by (46), 1),.(1/2) and
+vn+1(1/z) cannot vanish for the same value of 2 not zero, and therefore
+Rn¢Rn+1 for all values ”of n. The distinctness of the functions 22,.(1/2)
+therefore follows, and hence no two diagonal ﬁles can converge to the same
+limit.
+
+Case II. All the series 2a.”, n= 1, 2, 3, - - - , diverge.
+
+Any two consecutive diagonal ﬁles to the right of and parallel to the
+principal diagonal converge to the same limit, and hence all these ﬁles have
+a common limit. The limit is analytic throughout the complex plane except-
+ing the whole or a part of the negative half of the real axis.
+
+Case III. The series 2a,”, n=1, 2, 3, . ' ~ , r, diverge while Zaﬁ“,
+j=1, '2, 3, 4, - - - , converge.
+
+By the ﬁrst part of the hypothesis the principal diagonal and all parallel
+ﬁles on its right up to the (r+1)th diagonal ﬁle inclusive converge to one and
+the same limit, while by virtue of the second part of the hypothesis all the
+ﬁles beginning with the (r+1)th converge to limits which are meromorphic
+over the entire plane except at 2 =0. T hus the limits of all these ﬁles are of
+the same meromorphic character, but the distinctness of the limits begins
+only on passing the (r+1)th ﬁle.
+
+We will now turn our attention to the diagonal ﬁles below the principal
+diagonal which start with an approximant on the vertical border of the
+Padé table. Instead of considering directly the convergence of these diagonal
+ﬁles of approximants, we may consider instead the convergenCe of their
+reciprocals which are ﬁles of approximarits to the right of the principal
+diagonal of the Padé table for the reciprocal series of (5). Let this be
+
+(ﬂ) %+dw+@ﬁ+-~.
+
+By (34) and (35) the determinants An and B" with every 6.- replaced by
+(—1)‘d.- are not all positive, but to the series
+
+(8) m+dﬂ+aﬂ+.~
+
+" Stieltjes, loc. cit., §l9.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+1929] PADE APPROXIMANTS F OR STIELTJES SERIES 107
+
+belongs (Theorem 1, Chapter I) a Stieltjes continued fraction
+
+1 z z
+a2+ds+a4+‘°'.
+
+Consequently (53) is a Stieltjes series and we may apply the results previously
+obtained for (7) and (43) using (53) as our primary series.
+
+Three cases may be distinguished.
+
+Case I. If the series 2a.- converges, the diagonal ﬁles of approximants
+for (53) to the right of the principal diagonal converge each to a different
+function, which is meromorphic except at z=0 with poles only on the
+negative half of the real axis. Consequently the diagonal ﬁles of approximants
+for (5) below the principal diagonal converge, each to a different function,
+which is meromorphic except at 2 =0 with zeros only on the negative half of
+the real axis.
+
+If Ea.- is divergent, two cases may be distinguished corresponding to II
+and III above.
+
+Case II. If all the diagonal ﬁles of approximants for (53) to the right
+of the principal diagonal have a common limit F1(z), then those below the
+principal diagonal for (5) have the limit F (2) =1/(do+zF1), which is the limit
+of the continued fraction (7), and is analytic except over all or a part of the
+negative real axis.
+
+Case III. If the ﬁrst r ﬁles of approximants of (53) to the right of the
+principal diagonal have the same limit, while after passing the rth ﬁle the
+limits are distinct, then in the table of approximants of (5) the ﬁles below
+the principal diagonal will have the same limit until after passing the (r+1)th
+ﬁle, whereupon they become distinct from one another. The limit functions
+are all meromorphic except at z=0 with zeros only on the negative half of
+the real axis.
+
+One may ask the question whether, if the rth and (r+1)th diagonal ﬁles
+to the right of the principal diagonal have a common [diﬁerent] limit
+[limits], a corresponding pair of adjacent ﬁles below the principal diagonal
+must have a common [different] limit [limits]. In Case I the answer is
+obviously in the afﬁrmative, for then all the ﬁles to the right of and also
+those below the principal diagonal have distinct limits. In Case II when (5)
+converges, since its reciprocal also converges, both the series 2a.”, n=0,
+1, 2, 3, - ~ - , and the series similarly associated with (54) (which we shall
+denote for future reference by 2a.”, n=0, 1, 2, ~ - . , aﬂaa,+1) must all
+diverge. Hence all the ﬁles have the same limit. Also for the divergent
+Stieltjes series for which a2i=r‘, azi_1=1/(z'r‘), 0<r<1 (Chapter II) it is
+easily veriﬁed that Ear, 201,“, n =0, 1, 2, 3, - . - , all diverge. F inally, when
+
+(54)
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+108 H. S. WALL [January
+
+lim((12¢/02;_2)=7, lim(a2,-+1/a2;_1)=s, 0<r<1, s>1, it may be easily seen
+that aze+1/a3;_1 and azi‘ﬂ/azﬁll both have the limit rnsn+1 for z' = 00. Conse-
+quently (except possibly when r"s"+1 = 1):}:a.” and Ear“ converge or diverge
+together. In all these examples pairs of adjacent ﬁles equally distant from
+the ﬁrst diagonal ﬁle below the principal diagonal behave alike (i.e. the two
+ﬁles in each pair have a common limit Or else they have distinct limits).
+In the following example pairs of adjacent ﬁles equidistant from the prin-
+Cipal diagoﬁ‘al behave alike. ChoOse (12.43 =b.-/(a2+a4+ - - - +a2.-+2)’,
+where beis any convergent positive—term series. Then Zaég+1=2bg
+converges and hence by Theorem 3 all 2d.” converge. But if Zam- is diver-
+gent, 2a;, 2a} are divergent, but 2052 and all subsequent series are con-
+vergent.
+
+Now we shall examine the zeros and poles of the approximants
+N m,,.(z) /D,,.,,.(z) of the Stieltjes series (5). If ngm, these by (45) are equal
+to 'Ggp+1(z) —z”Pp,-(1/z)/Q,-(1/z), Where j =2»: or 2m+1 according as
+11—»: =2p or 2p+ 1; and if n <m their reciprocals, by the discussion centering
+about (52), are equal to do+d1z+ - - - +dgp+1z29+1+22P+1Pj”(1/z)/Q,-”(1/z),
+where‘Pj”/Q,-" is of the same form as P,-/Q,- and j =2n or 2n+1 according
+as m—n=2p+1 or 2p+2. If we replace 2 by 1/2 and set G”1 (2) =do+dlz
++ . - - +d,,_lz""1, these become
+
+G (1) 1P,-<z> d G,(1>+ 1 P;'<z>
+2’“ z 22? Qg-(Z) an 2” z z2v+1 Q/'(z)’
+
+where P,-(z)/Qj(z) and P,-”(z)/Q,-"(z) are the jth convergents of Stieltjes
+continued fractions of the form (2). Now it follows from the work of
+Stieltjes that when ngm—l the roots pf the polynomials Dm,,.(z) are all
+distinct and lie on the negative half of the real axis. If ngm the same is
+true of the roots of Nm,,.(z). If n=m or m— 1, all the roots of Nm,,.(z) and
+Dm,,.(z) are real and alternate along the negative half of the real axis. Con-
+sider now the roots of the numerator and denominator of an arbitrary
+approximant N ”M(z) /D,,.,,.(z). In the above representation for it, P,-(z)/Q,-(z)
+and P;”(z)/Q,~”(z) are monotone functions of z which decrease from + co to
+--00 as z increases between two adjacent roots of the denominators.*
+But the polynomials G..(1/z) and G,,’ (1 /z) are continuous and bcunded in
+any interval not containing the origin. Hence G2p+1(1/z) becomes equal to
+P,-(z)/zsz,-(z) at least once between every two adjacent non-zero roots of
+Qj(z). Therefore if n>m, N m,,.(z) vanishes at least once between every two
+adjacent roots of Dm,”(z); similarly, z'f n<m—-1, Dm,,.(z) vanishes at least
+once between every two adjacent roots of N m,n(z).
+
+ 
+
+ 
+
+ 
+
+" Cf. Stieltjes, 10c. cit., §3.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+1929! PADE APPROXIMANTS F OR STIELTJES SERIES 109
+
+CHAPTER III. EXTENDED STIELTJES SERIES
+
+I pass now to the question whether, given the Stieltjes series (5), it is
+possible to ﬁnd a number 0-1 such that the series
+
+(55) _ C—lz—l + Co — 612 + 6222 —' ' ' °
+
+shall be a Stieltjes series, i.e. such that the determinants An and B,. in terms
+of the coefﬁcients of (55) shall all be positive. The Bu for (55), being the A“
+
+for the original series (5), are positive. Consequently it is both necessary
+and sufﬁcient for the extension that a number t=c_1>0 shall exist such that
+
+t 60 . . . Ci
+
+Co 61 ' ‘ ' Ci+l
+ft“) =
+
+Ci ' ' ' 02i+1
+
+shall be positive for all values of i =0, 1, 2, 3, - - - .
+N ow
+
+(56) few 5 A;,.~+11 t+f¢(0) -
+
+Since the coeﬂicient of t in (56) is positive, 6-1 must be taken greater than
+the root of f;(t), i.e. greatenthan
+
+(57) ti = — fi(0)/Ai,i+1,
+for all values of 2'. It follows that the extension is possible when and only
+when the numbers t;, i =0, 1, 2, - - - , have an upper bound.
+Now*
+(58) ti = a2 + 04 + ' ' ' + 0214-2-
+In fact, by the rule for multiplying a determinant by one of its minors
+(59) fi(t)'Ai—l,i = '—1(t)Ai.i+1 — Agi-
+
+If we divide both members of this equation by A;-1,.-A.-,.-+1 and then replace
+ibyi—1,z'-2, - - - , 3, 2,1, 0, we have with the aid of (42)
+
+02i+2 = fi—l(t)/Ai—l,i — fi(t)/Ai.i+1,
+02; = fi—-2(t)/Ai—2.i—1 — fi—1(t)/Ai—l.t')
+
+G4 = fo(t)/Ao.1 ‘— f1(t)/A1,2.
+
+* Stieltjes, lob. cit., §35, eq. 11, obtained this in a different manner.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+110 H. S. WALL [January
+
+If to these equations we adjoin the identity
+02 = t — fo(t)/Ao.1,
+
+and then add them together and set t=t.~, we obtain (58).
+
+It follows from (58) that the numbers ti, i=0, 1, 2, - - - , will have an
+upper bound when and only when the series 202; is convergent. When
+this condition is satisﬁed, we may take c_1=2a2.-+a where a is zero or an
+arbitrary positive number. We state this result in the following theorem.
+
+THEOREM 4. Given a S tieltjes series
+
+(5) CO—Clz+6222—-'°‘,
+there exists a Stieltjes series
+(55) “ 0—12‘1 + Co — 612 + 6222 — . - -
+
+when and only when the series 202; in the Stieltjes continued fraction belonging
+to (5) is convergent.
+
+When the condition is fulﬁlled the number c_1 may be taken equal to Zam-
+or any greater number.
+
+Let us now suppose that Ea.- in (7) is convergent. Denote by*
+
+1 z z
+ar1+-a§1+-a€1+----
+the Stieltjes continued fraction belonging to (55), in which the (1,71 are
+necessarily positive. We must now express the an‘1 in terms of the an, which
+is obviously the same problem as that of expressing the a.- ‘1 in terms of the
+(13‘. To do this we will need to develop some necessary formulas.
+
+If we equate the two values of t.-_2 obtained from (57) and (58), and then
+advance the subscripts of every 6.- by n, we get the equation
+
+(60)
+
+(61) 02" + a4" + ' ° ' + 0:92 = _fi:2(O)/Ai—2.n+i-1,
+where
+
+0 6n ' ' ' Cn+i—2
+
+n 5n Cn+1 ' ' ' cn+i—1
+fi—2(O) =
+Cn+{-2 ' ' ' Cn+2i~3
+Now
+
+(62) Ai-l.n+i—2 = fin—2(O) + Cn—lAi—2.n+i—l;
+
+"' The superscripts as before are written for conven ence without parentheses.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+1929] PADE APPROXIMANTS FOR STIELTJES SERIES 111
+
+and therefore (61) may be written in the form
+
+{-1
+(63) Ai-l.n+i-2 = fin—2(O).(Cn—l — 20;).
+{.1
+By (41),
+aé‘fl 1
+(64) = ———-—-—
+
+ 
+
+ 
+
+A12—1.‘n+i—-2 Ai—l .i+n—]Ai—2 .i+n-—2
+
+Squaring the members of (63) and multiplying them into the correspond-
+ing members of (64), we have
+
+i—l 2
+(65) a2:‘=a;‘.--l(cn_1— 02,.) (i=2,3,4,~-);
+
+while for i=1 we have
+(66) 02"“ = af‘c,.2_1.
+Also.by (41), (63),
+
+72—1 02;
+
+(67) a2i+1 = —___—.-—T_—_'_—T—— (5 = 2,3,4. ° ' “)3
+(CM; - Za;i>(cn_1 - 203;)
+i=1 6—],
+
+while for 2' =0, 1 we have
+(68) aln—l = l/Cn—l ; aan—l = az"/[¢n-1(Cn—1 — 02"”-
+
+Then we have, setting n=0, c_1=Za2.-+a, a>0, in (65), (67),
+
+_1 {—1 2
+G2; = 02i—1< 2021' + <7 — 2021') < 025—1( 202; + 092,
+1
+
+and
+5—1 i
+0:“ = 02i/( 2021' + U " 202i>< 2022‘ + 0 — 2021') < 022/02.
+1 1
+
+Hence since 2a.- is convergent, it follows that Earl is also convergent.
+We may now take 0-2 =2a§§+aﬂ where 0’ >0, and extend (55) to form
+the Stieltjes series
+
+(69) 6-23-2 — _C_1Z—1 + Co — 612 + 6222 —- . . . ,
+
+etc.
+Continuing in this manner, we see that the series (5) can be extended
+indeﬁnitely to the left. We have proved the following theorem:
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+112 H. S. WALL [January
+
+THEOREM 5. If in the Stieltjes continued fraction belonging to the Stieltjes
+
+series
+
+(5) CO _ 612 + 6222 — ' -
+
+the series 2a.- converges, then the series (5) can be extended to the left by preﬁxz’ng
+anyﬁm'te or inﬁnite number of terms: — c-lz‘l, + c_2z-2, —- c_3z-3, . . . ,
+
+in such wise that the extended series shall be Stieltjes series.
+The coeﬁcients in the preﬁxed terms are not unique.
+
+Let us next suppose the series 2a.- to diverge. By Theorem 4, 2a,.-
+must converge in order that extension shall be possible, and consequently
+Zd2{_1 is divergent. We then take 6-1 =Za25+0, where a is zero or a positive
+number. I shall prove that unless a=0, the series Ea}: will be divergent,
+and therefore further extension will be impossible. In fact, by (65), if
+0750, a2r1>02a2,-_1, i=1, 2, 3, - - . , and therefore each term of Zagrl is
+greater than the corresponding term of the divergent series o’ZazH so that
+extension is impossible.
+
+When 0750, it has been shown that Zazrl is necessarily divergent. I
+shall give examples presently to show that When a=0, 204:1 may either
+converge or diverge. On the former hypothesis Zaziill must be divergent,
+and therefore also Earl. For suppose the contrary. Then by Theorem 3,
+since Earl converges, Zag, 2a}, - - - converge. But by hypothesis Ea;
+is divergent. We thus have a contradiction. Hence:
+
+THEOREM 6. If in the S tz'eltjes continued fraction
+
+1 z z
+Z+Z+E+~-
+belonging to the Stieltjes series
+(5) I co—clz+62z2—---
+the series Ea.- dz’verges, and if (5) admits the extension
+i Luz“ ¥ a_n+1Z‘”+1 i - - - + Co - 612 + 6222 - - ° ' ,
+then the coeﬁez’ents 6-1, c_2, - - ~ , c-“ must be chosen successively in accordance
+
+with the relations
+
+5-4: 2:027:44 (i=1;22 )n_1))
+> -n+1
+
+c-” = 202k .
+
+For examples illustrating the extension of Stieltjes series to the left the
+folIoWing lemma will be needed.
+
+(70)
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+1929] PADE APPROXIMANTS FOR STIELTJES SERIES 113
+
+LEMMA 2, Let b1+b2+b3+ - - - be any convergent series in which lim;_..
+bo/b.-_1=r; then zf O<r<1,
+' , b.-+1+b.-+2+--- 1
+11m -—-—-——-————————- = — .
+i=°° bi+k+1 + bi+lc+2 + ' ' ' 7"
+
+According to the hypothesis we may take a ﬁxed integer m suﬂiciently
+large to insure that for all ngm the quotient b,./b,.+,c will lie between
+(1 /r*) — 5/4 and (1 /r*) +e/4, where e is an arbitrarily small assigned positive
+number. T hen
+
+bm+bm+1+ ' "+bm+p -
+bm-Hc + bm+k+1 + ’ ' ' + bm+lc+p
+
+will lie between these same limits inasmuch as the terms are all of the same
+sign and the ratio of each term of the numerator to the corresponding term
+of the denominator lies between these limits. But since Zb‘ is convergent
+there will be a limit to this fraction for p—mo which lies between these
+limits.
+
+As e may be taken as small as desired by taking m suﬂiciently large, the
+lemma accordingly results.
+
+Construct now a Stieltjes continued fraction in which 02,-=r", lim.-_..
+a25+1/a2;_1=s, O<r<1, s>1. As Ea.- diverges, 6-1 must be taken in accor-
+dance with (70). Then by (65) and (67), with n =0,
+
+ 
+
+ 
+
+ 
+
+ 
+
+, 02¢ , a2i—l (02; + 02i+2 + ' ° ')2
+hm = 1m —-————_—_—-— = '23,
+inc. 011—2 i=oo 025-3 (azi—z + 02¢ + ' ' ')2
+_1
+d2i+1 , 02£ (azi—z + 023' + ‘ ' )
+lim = 11m ———————-—— =1/r.
+i=ao (1;;l i=°° 025—2 (02:42 + 0254-4 +'
+
+If we now choose r so that 723 <1, then 202 1 will be convergent and both a
+ﬁrst and second extension of (5) is possible. This requires that we have
+
+7 <1/s1/2 < 1. Similarly, if 2% <1, we have
+
+ 
+
+ 
+
+ 
+
+ 
+
+. a: . 0.22:1 (02:1 + ‘ ' ' )2
+
+2i-2 2i—3 25-2
+
+_2
+lim 025:1 = lim a2£1(a2_i:2 + ' ‘ ' ) = 1/028).
+i=°° 02—5—1 i=°° a2i—2 (a;i+2+ . ' )
+
+Then if r3s’<1, that is, if r<1/s2/3, a third extension is possible and
+lim a2;- 3/a2,-_2 =r432,etc. Thus, if
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+114 H. S. WALL [January
+
+1 _ 1
+
+— < 1’ < -:
+Sk/(k+l) s(k—l)/lc
+
+ 
+
+ 
+
+the series 202;, Zagrl, - - - , Zagrk“ will converge, While 202;“ is divergent.
+Hence extension of' (5) to the left for la terms is then possible, but a further
+extension is impossible. If r =1/s, an extension of inﬁnite order is possible.
+
+The following theorem follows immediately from (49), (50) of the preced-
+ing chapter.*
+
+THEOREM 7. Given any series of positive numbers 2a,, there is uniquely
+determined a power series of S tieltjes
+
+Co—Clz+6222—"'
+
+belonging to the Stieltjes continued fraction
+
+1 z z
+01+02+03+"'
+The c.- are given in terms of the a; by the following formulas:
+Ci=1/01‘ (i=0)152"")’
+3' {—1 k i—l k+1 {—1
+(71) 021: = a2k+1/ Zazk—i aZh—l,
+[cal 16-1
+
+3' _ {—1 k i—l 2
+a2k-l = 02k a2k—1 -
+k=l
+
+CHAPTER IV. A PARTICULAR EXAMPLE
+
+The continued fractionT
+
+1 z z z
+1+1+1+1+-~'
+I will determine the c.- and the a,“ (Which are the same as the a? in this
+
+case) for the above continued fraction. I will show that the radius of conver-
+gence of the corresponding Stieltjes series is 1/4. The associated series
+
+2a.”, n=1, 2, 3, - - . , are divergent, but the Ed;- converge, and conse-
+quently
+(72) Cu: 202:1 (n=0,1,2,3, m).
+
+" Stieltjes, Annales de Toulouse, vol. 3, H, pp. 1—17, 1889, shows the one-to-one correspondence
+between his series and continued fractions. He obtains the c.- in terms of the a; by a diﬂerent method.
+
+TLaurent, Note sur les fractions continues, Nouvelles Annales de Mathématiques, (2), vol. 5
+(1866), pp. 540—552.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+1929] PADE APPROXIMANTS F OR STIELTJES SERIES 115
+
+The on being known, (72) serve to give the sums of certain positive-term
+series.
+To determine the c;, write
+
+ 
+
+ 
+
+F<>—1+z 3 —1+ 3
+12‘ 1+1+-~_ 143(2)
+Hence,
+1+1+4z)1/2
+F1(z)=——(—-— ;
+2
+and
+1 z z
+F(z)=-— — —
+1+1+1+...
+=(F1-1)/Z
+_--1+(1+4z)1/2
+— 2z
+
+If we develop the numerator of the last expression in a Taylor’s power
+series about 2 =0, we may then divide by 22 and obtain
+
+(73) F(z) =co—clz+02zz— ,
+where
+2k + 3)(2k + 5) - - - (4k —1)2"
+(74) 62k = (————————-——-————-——————,
+k!
+(21? + 3)(2k + 5) ° ' ' (412 + 02"
+62"“ = ”ﬁf'
+
+and therefore satisfy the recurrence relations
+
+C2k+1 = [(413 + 1)/(k + 1)]02k,
+(75) m = 2[(4k — 1)/(2k + 1)]c2H,
+
+Co: 1.
+
+Since lim(c;/c¢_1)=4 it follows that the radius of convergence of (73)
+
+is equal to 1/4.
+We will next get the elements in the associated continued fractions.
+
+Using (49), (50) :
+
+1/[k(k +1)],
+(12 +1)2.
+
+02k
+
+02k+1
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
+116 H. S. WALL
+
+Then since 12+23+ - - - +(k+1)’=(k+1)(k+2)(2k+3)/2-3, we have
+a; = (2-3)2/[k(k + 2)<2k +1)(2k + 3)],
+
+2
+
+021m = (k + 1)(k + 2)(2k + 3)2/(2°3)2-
+
+The next step will involve the formula 1-2-32+2-3-53+ - - - +(k+1)
+(k+2)(2k+3)3_=_(k+1)(k+2)(k+3)(2k+3)(2k+5)/5. We have
+
+a; = (2-3)2(5)2/[k(k + W + 2)(k + 3)<2k + mm + 5)].
+
+02k+1 = (k + W + 2)2(k + 3)<2k + 3x212 + 5)/[(2.3)2(5)2]-
+
+In general:
+26+! _(k+1)'°'(k+i)(k+i+1)’(k+¢'+2)-°°(k+2i+1)(2k+3)°'° (2k+4¢'+ 1),
+“W ‘ (2-3)=<5)=(2- 7):. . - [2w - nlaw + 1)’
+a?“ (2.3)*(5)*(2- 7)'- - - [2(45 — 1)]«44' + 1):
+t =
+
+kn~(k+2i+1)(2k+1)---(2k+2i— 1)(2k+2i+3)---(2k+4¢'+1)’
+
+..- (k+1)~-(k+2£)(2k+3)---(2k+2i—1)(2k+2i+1)'(2k+25+3)~~ (2k+44’—1)
+“W = (2'3>*<5)2<2-7)2~- (4i—3)*[2<4¢°- 01* ’
+u_ wwwmmh~w-®mw-DP .
+0‘“ k---(k+z'— 1;(n+i+1)---(k+2z’)(2k+1)---(2k-r4i— 1)
+
+These formulas are seen to hold for all k When i= 1. Assuming them true
+for all k and for all 1' $1 — 1, they may, With the aid of the follovéing formulas,
+
+be proved'“ for i=1. Set
+Yk°= (k+1)'°' (k+¢°-1)(k+i)2(k+i+1)~~ (k+2i—l)(2k+3)
+
+~~(2k+4i—3),
+z; = (k + 1) - - - (k+2z°)(2k+3) - - . (2k+2z’—1)(2k+2£+1)2(2k+2i+3)
+-~(4k+4i— 1).
+
+Then,
+
+i Y1! =(k + 1) . . - (k+22‘)(2k+3) ~ - - (2k+2z’-1)(2k+2i+1)’(2k+2i+3)
+
+k-O
+
+- 4 - (2k + 42‘ — 1)/(2(4z' — 1)).
+Zzg=(k+1) - . - (k+2£+1)(2k+3) - . - (2k+4i+1)/(4i+1).
+
+"' The completion of the proof, which offers no difﬁculty, will be omitted.
+
+UNIVERSITY or WIsconsm,
+MADISON. W15.
+
+License or copyright restrictions may apply to redistribution; see http://www.ams.org/journaI-terms-of-use
