@@ -1,4 +1,6 @@
 # set up logging so we see what's going on
+#This is all based off of a tutorial found here: https://rare-technologies.com/tutorial-on-mallet-in-python/#gensim_wrapper
+
 import logging
 import os
 from gensim import corpora, models, utils
