@@ -32,6 +32,7 @@ def iterDocuments(corpusList):
         cursor.execute(sql)
         doc=cursor.fetchall()
         document=''.join(doc[0])
+        # does preprocessing and tokenization
         yield utils.simple_preprocess(document)
     conn.close()
 
@@ -51,10 +52,12 @@ def determineCorpusSample():
     conn = psycopg2.connect(connString)
     # conn.cursor will return a cursor object, you can use this cursor to perform queries
     cursor = conn.cursor()
+    # get all doument ids
     cursor.execute('Select distinct docid from sentences')
     docIds=cursor.fetchall()
     numDocs=len(docIds)
     corpLen=math.ceil(numDocs/3)
+    # split off 1/3 to build the corpus dictionary
     sampleIDs=random.sample(docIds,corpLen)
     corpIDs=[]
     for x in sampleIDs:
@@ -71,9 +74,11 @@ def determineCorpusSample():
 corpusIDs=[]
 modellingIDs=[]
 corpusIDs, modellingIDs=determineCorpusSample()
+#build the corpus
 corpus=trainingCorpus(corpusIDs)
-
+# point gensim lda wrapper at mallet
 malletPath = '/Users/samuelhansen/Downloads/mallet-2.0.8/bin/mallet'
+# create the model
 model = models.wrappers.LdaMallet(malletPath, corpus, num_topics=10, id2word=corpus.dictionary)
 with open(fileDir + '/' + 'topics.txt','a') as topicFile:
     for x in model.print_topics(10,20):
@@ -90,6 +95,7 @@ for x in modellingIDs[0:2]:
     cursor.execute(sql)
     doc = cursor.fetchall()
     document = ''.join(doc[0])
+    #determine a document's topics
     bow = corpus.dictionary.doc2bow(utils.simple_preprocess(document))
     with open(fileDir + '/' + x + '.txt','a') as docFile:
         docFile.write(x)
