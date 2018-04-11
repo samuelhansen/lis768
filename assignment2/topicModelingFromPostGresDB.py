@@ -76,7 +76,7 @@ corpus=trainingCorpus(corpusIDs)
 malletPath = '/Users/samuelhansen/Downloads/mallet-2.0.8/bin/mallet'
 model = models.wrappers.LdaMallet(malletPath, corpus, num_topics=10, id2word=corpus.dictionary)
 with open(fileDir + '/' + 'topics.txt','a') as topicFile:
-    for x in model.print_topics(10,10):
+    for x in model.print_topics(10,20):
         topicFile.write(''.join(str(x)))
         topicFile.write('\n')
 conn = psycopg2.connect(connString)
