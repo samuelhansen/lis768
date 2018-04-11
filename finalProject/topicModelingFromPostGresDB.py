@@ -85,7 +85,7 @@ with open(fileDir + '/' + 'topics.txt','a') as topicFile:
         topicFile.write(''.join(str(x)))
         topicFile.write('\n')
 conn = psycopg2.connect(connString)
-for x in modellingIDs[0:2]:
+for x in modellingIDs:
     # parse document into a list of utf8 tokens
     sql = 'select array_to_string(array_agg(sentence),\' \') as sentences ' \
           'from (SELECT docid, array_to_string(words, \' \') as sentence ' \
