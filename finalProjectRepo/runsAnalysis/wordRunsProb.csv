@@ -1,0 +1,26 @@
+Code 1
+p(gt identification),970/2889,33.58
+p(not gt iden),1919/2889,66.42
+p(gt|gt iden),942/970,97.11
+p(not gt|gt identification),27/970,2.784
+p(gt|not gt iden),420/1919,21.89
+p(not gt|not gt iden),1499/1919,78.11
+p(gt),1362/2889,47.14
+p(not gt),1527/2889,52.86
+p(gt identification|gt),942/1362,69.16
+p(not gt iden|gt),420/1362,30.84
+p(not gt iden|not gt),1499/1527,98.17
+p(gt iden|not gt),28/1527,1.834
+Code 1 and 2
+p(gt identification),1951/2889,67.53
+p(not gt iden),938/2889,32.47
+p(gt|gt iden),1354/1951,69.4
+p(not gt|gt identification),597/1951,30.6
+p(gt|not gt iden),8/938,0.8529
+p(not gt|not gt iden),930/938,99.15
+p(gt),1362/2889,47.14
+p(not gt),1527/2889,52.86
+p(gt identification|gt),1354/1362,99.41
+p(not gt iden|gt),8/1362,0.5874
+p(not gt iden|not gt),930/1527,60.9
+p(gt iden|not gt),597/1527,39.1

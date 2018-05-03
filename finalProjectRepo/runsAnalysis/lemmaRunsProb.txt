@@ -1,0 +1,26 @@
+Code 1
+p(gt identification)=952/2878
+p(not gt iden)=1926/2878
+p(gt|gt iden)=925/952
+p(not gt|gt identification)=27/952
+p(gt|not gt iden)=444/1926
+p(not gt|not gt iden)=1482/1926
+p(gt)=1369/2878
+p(not gt)=1509/2878
+p(gt identification|gt)=925/1369
+p(not gt iden|gt)=444/1369
+p(not gt iden|not gt)=1482/1509
+p(gt iden|not gt)=27/1509
+Code 1 and 2
+p(gt identification)=1947/2878
+p(not gt iden)=931/2878
+p(gt|gt iden)=1362/1947
+p(not gt|gt identification)=585/1947
+p(gt|not gt iden)=7/931
+p(not gt|not gt iden)=924/931
+p(gt)=1369/2878
+p(not gt)=1509/2878
+p(gt identification|gt)=1362/1369
+p(not gt iden|gt)=7/1369
+p(not gt iden|not gt)=924/1509
+p(gt iden|not gt)=585/1509

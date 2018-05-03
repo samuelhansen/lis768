@@ -1,0 +1,9 @@
+code,origValue,total,lemma20180417_1243,lemma20180418_0913,lemma20180416_0825,word20180413_0920,word20180416_1241,word20180417_1554
+analysis,,28,4,6,5,5,3,5
+analysis,measure,4,1,1,1,1,0,0
+analysis,continuous,6,1,1,1,1,1,1
+analysis,analysis,6,1,1,1,1,1,1
+analysis,dx,7,1,2,1,1,1,1
+analysis,integral,1,0,1,0,0,0,0
+analysis,differential,3,0,0,1,1,0,1
+analysis,banach,1,0,0,0,0,0,1

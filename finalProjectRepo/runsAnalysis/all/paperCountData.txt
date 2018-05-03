@@ -1,0 +1,8 @@
+Count papers with MSC value: 2981
+ Count papers with an MSC Graph Theory Value: 1413
+ Count papers with highest percentage model value being graph theory that are graph theory according to MSC: 954
+ Count papers with highest percentage model value being graph theory that are not graph theory according to MSC: 28
+ Count papers with highest percentage model value not being graph theory that are graph theory according to MSC: 459
+ Count papers with highest or second highest percentage model value being graph theory that are graph theory according to MSC: 1404
+ Count papers with highest or second highest percentage model value being graph theory that are not graph theory according to MSC: 604
+ Count papers with highest or second highest percentage model value not being graph theory that are graph theory according to MSC: 9

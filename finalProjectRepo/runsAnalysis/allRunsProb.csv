@@ -1,0 +1,26 @@
+code1
+p(gt identification),982/2981,32.94
+p(not gt iden),1999/2981,67.06
+p(gt|gt iden),954/982,97.15
+p(not gt|gt identification),28/982,2.851
+p(gt|not gt iden),459/1999,22.96
+p(not gt|not gt iden),1540/1999,77.04
+p(gt),1413/2981,47.4
+p(not gt),1568/2981,52.6
+p(gt identification|gt),954/1413,67.52
+p(not gt iden|gt),459/1413,32.48
+p(not gt iden|not gt),1540/1568,98.21
+p(gt iden|not gt),28/1568,1.786
+code1 and code2
+p(gt identification),2008/2981,67.36
+p(not gt iden),973/2981,32.64
+p(gt|gt iden),1404/2008,69.92
+p(not gt|gt identification),604/2008,30.08
+p(gt|not gt iden),9/973,0.925
+p(not gt|not gt iden),964/973,99.08
+p(gt),1413/2981,47.4
+p(not gt),1568/2981,52.6
+p(gt identification|gt),1404/1413,99.36
+p(not gt iden|gt),9/1413,0.6369
+p(not gt iden|not gt),964/1568,61.48
+p(gt iden|not gt),604/1568,38.52

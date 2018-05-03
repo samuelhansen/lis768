@@ -1,0 +1,1201 @@
+type,run,topics,topicNum,percent,pair,code
+lemmas,20180417_1243,topics,0,0.016,map,
+lemmas,20180417_1243,topics,0,0.016,algebra,algebra
+lemmas,20180417_1243,topics,0,0.012,module,
+lemmas,20180417_1243,topics,0,0.011,category,category theory
+lemmas,20180417_1243,topics,0,0.008,group,algebra
+lemmas,20180417_1243,topics,0,0.008,space,
+lemmas,20180417_1243,topics,0,0.008,proposition,
+lemmas,20180417_1243,topics,0,0.008,ring,algebra
+lemmas,20180417_1243,topics,0,0.008,advance,
+lemmas,20180417_1243,topics,0,0.007,isomorphism,algebra
+lemmas,20180417_1243,topics,0,0.007,structure,
+lemmas,20180417_1243,topics,0,0.007,morphism,algebra
+lemmas,20180417_1243,topics,0,0.007,ideal,algebra
+lemmas,20180417_1243,topics,0,0.006,object,
+lemmas,20180417_1243,topics,0,0.006,complex,
+lemmas,20180417_1243,topics,0,0.005,functor,category theory
+lemmas,20180417_1243,topics,0,0.005,ﬁnite,
+lemmas,20180417_1243,topics,0,0.005,action,
+lemmas,20180417_1243,topics,0,0.004,equivalence,
+lemmas,20180417_1243,topics,0,0.004,bundle,
+lemmas,20180417_1243,topics,1,0.033,group,algebra
+lemmas,20180417_1243,topics,1,0.022,line,
+lemmas,20180417_1243,topics,1,0.012,plane,
+lemmas,20180417_1243,topics,1,0.011,subgroup,algebra
+lemmas,20180417_1243,topics,1,0.009,map,
+lemmas,20180417_1243,topics,1,0.008,surface,
+lemmas,20180417_1243,topics,1,0.008,orbit,
+lemmas,20180417_1243,topics,1,0.008,automorphism,algebra
+lemmas,20180417_1243,topics,1,0.007,curve,
+lemmas,20180417_1243,topics,1,0.007,transitive,
+lemmas,20180417_1243,topics,1,0.007,finite,
+lemmas,20180417_1243,topics,1,0.007,space,
+lemmas,20180417_1243,topics,1,0.006,type,
+lemmas,20180417_1243,topics,1,0.006,arc,
+lemmas,20180417_1243,topics,1,0.006,regular,
+lemmas,20180417_1243,topics,1,0.006,proposition,
+lemmas,20180417_1243,topics,1,0.006,embedding,
+lemmas,20180417_1243,topics,1,0.006,pg,
+lemmas,20180417_1243,topics,1,0.005,convex,topology
+lemmas,20180417_1243,topics,1,0.005,aut,
+lemmas,20180417_1243,topics,2,0.016,polynomial,algebra
+lemmas,20180417_1243,topics,2,0.013,matrix,algebra
+lemmas,20180417_1243,topics,2,0.008,vector,algebra
+lemmas,20180417_1243,topics,2,0.007,sum,
+lemmas,20180417_1243,topics,2,0.007,partition,number theory
+lemmas,20180417_1243,topics,2,0.006,proposition,
+lemmas,20180417_1243,topics,2,0.006,root,
+lemmas,20180417_1243,topics,2,0.006,xi,
+lemmas,20180417_1243,topics,2,0.006,weight,
+lemmas,20180417_1243,topics,2,0.006,representation,
+lemmas,20180417_1243,topics,2,0.005,basis,
+lemmas,20180417_1243,topics,2,0.005,product,
+lemmas,20180417_1243,topics,2,0.005,formulum,
+lemmas,20180417_1243,topics,2,0.005,generate,
+lemmas,20180417_1243,topics,2,0.005,sn,
+lemmas,20180417_1243,topics,2,0.005,define,
+lemmas,20180417_1243,topics,2,0.005,sequence,number theory
+lemmas,20180417_1243,topics,2,0.005,xn,
+lemmas,20180417_1243,topics,2,0.005,algebra,algebra
+lemmas,20180417_1243,topics,2,0.005,equal,
+lemmas,20180417_1243,topics,3,0.031,de,
+lemmas,20180417_1243,topics,3,0.018,define,
+lemmas,20180417_1243,topics,3,0.013,la,
+lemmas,20180417_1243,topics,3,0.01,cl,
+lemmas,20180417_1243,topics,3,0.009,le,
+lemmas,20180417_1243,topics,3,0.008,finite,
+lemmas,20180417_1243,topics,3,0.008,est,
+lemmas,20180417_1243,topics,3,0.008,si,
+lemmas,20180417_1243,topics,3,0.008,fl,
+lemmas,20180417_1243,topics,3,0.008,en,
+lemmas,20180417_1243,topics,3,0.008,cent,
+lemmas,20180417_1243,topics,3,0.007,xl,
+lemmas,20180417_1243,topics,3,0.006,il,
+lemmas,20180417_1243,topics,3,0.006,des,
+lemmas,20180417_1243,topics,3,0.006,el,
+lemmas,20180417_1243,topics,3,0.006,definition,
+lemmas,20180417_1243,topics,3,0.006,les,
+lemmas,20180417_1243,topics,3,0.005,pi,
+lemmas,20180417_1243,topics,3,0.005,iv,
+lemmas,20180417_1243,topics,3,0.005,ll,
+lemmas,20180417_1243,topics,4,0.059,edge,graph theory
+lemmas,20180417_1243,topics,4,0.026,cycle,graph theory
+lemmas,20180417_1243,topics,4,0.025,path,graph theory
+lemmas,20180417_1243,topics,4,0.018,color,graph theory
+lemmas,20180417_1243,topics,4,0.016,connected,graph theory
+lemmas,20180417_1243,topics,4,0.014,subgraph,graph theory
+lemmas,20180417_1243,topics,4,0.013,degree,
+lemmas,20180417_1243,topics,4,0.011,adjacent,
+lemmas,20180417_1243,topics,4,0.009,fig,
+lemmas,20180417_1243,topics,4,0.009,component,
+lemmas,20180417_1243,topics,4,0.009,coloring,graph theory
+lemmas,20180417_1243,topics,4,0.008,free,
+lemmas,20180417_1243,topics,4,0.007,induce,
+lemmas,20180417_1243,topics,4,0.007,hamiltonian,graph theory
+lemmas,20180417_1243,topics,4,0.007,connect,
+lemmas,20180417_1243,topics,4,0.006,tree,graph theory
+lemmas,20180417_1243,topics,4,0.006,length,
+lemmas,20180417_1243,topics,4,0.006,neighbor,
+lemmas,20180417_1243,topics,4,0.006,odd,
+lemmas,20180417_1243,topics,4,0.006,face,
+lemmas,20180417_1243,topics,5,0.028,mod,
+lemmas,20180417_1243,topics,5,0.027,block,
+lemmas,20180417_1243,topics,5,0.023,code,
+lemmas,20180417_1243,topics,5,0.019,design,
+lemmas,20180417_1243,topics,5,0.013,matrix,algebra
+lemmas,20180417_1243,topics,5,0.011,square,
+lemmas,20180417_1243,topics,5,0.011,system,
+lemmas,20180417_1243,topics,5,0.01,row,
+lemmas,20180417_1243,topics,5,0.01,construction,
+lemmas,20180417_1243,topics,5,0.009,type,
+lemmas,20180417_1243,topics,5,0.009,prime,number theory
+lemmas,20180417_1243,topics,5,0.009,triple,
+lemmas,20180417_1243,topics,5,0.009,size,
+lemmas,20180417_1243,topics,5,0.009,column,algebra
+lemmas,20180417_1243,topics,5,0.008,weight,
+lemmas,20180417_1243,topics,5,0.008,odd,
+lemmas,20180417_1243,topics,5,0.007,pair,
+lemmas,20180417_1243,topics,5,0.007,construct,
+lemmas,20180417_1243,topics,5,0.007,group,algebra
+lemmas,20180417_1243,topics,5,0.006,table,
+lemmas,20180417_1243,topics,6,0.017,space,
+lemmas,20180417_1243,topics,6,0.009,advance,
+lemmas,20180417_1243,topics,6,0.009,operator,
+lemmas,20180417_1243,topics,6,0.009,rn,
+lemmas,20180417_1243,topics,6,0.007,measure,analysis
+lemmas,20180417_1243,topics,6,0.007,metric,
+lemmas,20180417_1243,topics,6,0.007,constant,
+lemmas,20180417_1243,topics,6,0.006,compact,topology
+lemmas,20180417_1243,topics,6,0.006,bound,
+lemmas,20180417_1243,topics,6,0.006,proposition,
+lemmas,20180417_1243,topics,6,0.005,log,
+lemmas,20180417_1243,topics,6,0.005,inequality,
+lemmas,20180417_1243,topics,6,0.005,continuous,analysis
+lemmas,20180417_1243,topics,6,0.005,deﬁned,
+lemmas,20180417_1243,topics,6,0.005,positive,
+lemmas,20180417_1243,topics,6,0.005,sequence,number theory
+lemmas,20180417_1243,topics,6,0.004,map,
+lemmas,20180417_1243,topics,6,0.004,real,
+lemmas,20180417_1243,topics,6,0.004,convex,topology
+lemmas,20180417_1243,topics,6,0.004,estimate,
+lemmas,20180417_1243,topics,7,0.014,vi,
+lemmas,20180417_1243,topics,7,0.012,digraph,graph theory
+lemmas,20180417_1243,topics,7,0.011,xi,
+lemmas,20180417_1243,topics,7,0.01,cycle,graph theory
+lemmas,20180417_1243,topics,7,0.01,arc,
+lemmas,20180417_1243,topics,7,0.009,edge,graph theory
+lemmas,20180417_1243,topics,7,0.008,degree,
+lemmas,20180417_1243,topics,7,0.008,colour,graph theory
+lemmas,20180417_1243,topics,7,0.007,kn,
+lemmas,20180417_1243,topics,7,0.007,bind,
+lemmas,20180417_1243,topics,7,0.007,path,
+lemmas,20180417_1243,topics,7,0.007,dominate,
+lemmas,20180417_1243,topics,7,0.007,distance,
+lemmas,20180417_1243,topics,7,0.007,contradiction,
+lemmas,20180417_1243,topics,7,0.006,independent,
+lemmas,20180417_1243,topics,7,0.006,bipartite,graph theory
+lemmas,20180417_1243,topics,7,0.006,tree,graph theory
+lemmas,20180417_1243,topics,7,0.006,regular,
+lemmas,20180417_1243,topics,7,0.006,adjacent,
+lemmas,20180417_1243,topics,7,0.006,di,
+lemmas,20180417_1243,topics,8,0.024,solution,
+lemmas,20180417_1243,topics,8,0.022,equation,
+lemmas,20180417_1243,topics,8,0.016,madison,
+lemmas,20180417_1243,topics,8,0.016,wisconsin,
+lemmas,20180417_1243,topics,8,0.014,download,
+lemmas,20180417_1243,topics,8,0.011,article,
+lemmas,20180417_1243,topics,8,0.01,november,
+lemmas,20180417_1243,topics,8,0.007,system,
+lemmas,20180417_1243,topics,8,0.007,analysis,analysis
+lemmas,20180417_1243,topics,8,0.007,boundary,
+lemmas,20180417_1243,topics,8,0.006,operator,
+lemmas,20180417_1243,topics,8,0.006,december,
+lemmas,20180417_1243,topics,8,0.006,method,
+lemmas,20180417_1243,topics,8,0.005,dx,analysis
+lemmas,20180417_1243,topics,8,0.005,applicable,
+lemmas,20180417_1243,topics,8,0.004,constant,
+lemmas,20180417_1243,topics,8,0.004,space,
+lemmas,20180417_1243,topics,8,0.004,view,
+lemmas,20180417_1243,topics,8,0.004,time,
+lemmas,20180417_1243,topics,8,0.004,nonlinear,
+lemmas,20180417_1243,topics,9,0.01,tree,graph theory
+lemmas,20180417_1243,topics,9,0.009,algorithm,
+lemmas,20180417_1243,topics,9,0.008,sequence,number theory
+lemmas,20180417_1243,topics,9,0.007,log,
+lemmas,20180417_1243,topics,9,0.007,lattice,algebra
+lemmas,20180417_1243,topics,9,0.007,matroid,combinatorics
+lemmas,20180417_1243,topics,9,0.006,interval,
+lemmas,20180417_1243,topics,9,0.005,time,
+lemmas,20180417_1243,topics,9,0.005,word,
+lemmas,20180417_1243,topics,9,0.005,chain,
+lemmas,20180417_1243,topics,9,0.005,poset,
+lemmas,20180417_1243,topics,9,0.005,usa,
+lemmas,20180417_1243,topics,9,0.005,random,
+lemmas,20180417_1243,topics,9,0.005,fig,
+lemmas,20180417_1243,topics,9,0.005,department,
+lemmas,20180417_1243,topics,9,0.004,step,
+lemmas,20180417_1243,topics,9,0.004,permutation,combinatorics
+lemmas,20180417_1243,topics,9,0.004,node,graph theory
+lemmas,20180417_1243,topics,9,0.004,game,
+lemmas,20180417_1243,topics,9,0.004,move,
+lemmas,20180418_0913,topics,0,0.021,define,
+lemmas,20180418_0913,topics,0,0.014,finite,
+lemmas,20180418_0913,topics,0,0.01,definition,
+lemmas,20180418_0913,topics,0,0.008,lattice,algebra
+lemmas,20180418_0913,topics,0,0.007,xi,
+lemmas,20180418_0913,topics,0,0.007,cl,
+lemmas,20180418_0913,topics,0,0.006,family,
+lemmas,20180418_0913,topics,0,0.005,matroid,combinatorics
+lemmas,20180418_0913,topics,0,0.005,pi,
+lemmas,20180418_0913,topics,0,0.005,infinite,
+lemmas,20180418_0913,topics,0,0.005,fl,
+lemmas,20180418_0913,topics,0,0.005,maximal,
+lemmas,20180418_0913,topics,0,0.005,relation,
+lemmas,20180418_0913,topics,0,0.004,ti,
+lemmas,20180418_0913,topics,0,0.004,xl,
+lemmas,20180418_0913,topics,0,0.004,iv,
+lemmas,20180418_0913,topics,0,0.004,iii,
+lemmas,20180418_0913,topics,0,0.004,sequence,number theory
+lemmas,20180418_0913,topics,0,0.004,interval,
+lemmas,20180418_0913,topics,0,0.004,el,
+lemmas,20180418_0913,topics,1,0.02,tree,graph theory
+lemmas,20180418_0913,topics,1,0.016,fig,
+lemmas,20180418_0913,topics,1,0.015,face,
+lemmas,20180418_0913,topics,1,0.013,arc,
+lemmas,20180418_0913,topics,1,0.01,node,graph theory
+lemmas,20180418_0913,topics,1,0.009,edge,graph theory
+lemmas,20180418_0913,topics,1,0.009,algorithm,
+lemmas,20180418_0913,topics,1,0.007,plane,
+lemmas,20180418_0913,topics,1,0.007,tournament,
+lemmas,20180418_0913,topics,1,0.006,embedding,
+lemmas,20180418_0913,topics,1,0.006,time,
+lemmas,20180418_0913,topics,1,0.005,planar,graph theory
+lemmas,20180418_0913,topics,1,0.005,usa,
+lemmas,20180418_0913,topics,1,0.005,triangle,
+lemmas,20180418_0913,topics,1,0.005,triangulation,
+lemmas,20180418_0913,topics,1,0.005,orient,
+lemmas,20180418_0913,topics,1,0.005,label,
+lemmas,20180418_0913,topics,1,0.005,orientation,
+lemmas,20180418_0913,topics,1,0.005,department,
+lemmas,20180418_0913,topics,1,0.004,surface,topology
+lemmas,20180418_0913,topics,2,0.013,matrix,algebra
+lemmas,20180418_0913,topics,2,0.013,sequence,number theory
+lemmas,20180418_0913,topics,2,0.011,polynomial,algebra
+lemmas,20180418_0913,topics,2,0.01,partition,number theory
+lemmas,20180418_0913,topics,2,0.008,sum,
+lemmas,20180418_0913,topics,2,0.007,permutation,combinatorics
+lemmas,20180418_0913,topics,2,0.007,column,
+lemmas,20180418_0913,topics,2,0.007,log,
+lemmas,20180418_0913,topics,2,0.006,row,
+lemmas,20180418_0913,topics,2,0.005,word,
+lemmas,20180418_0913,topics,2,0.005,random,
+lemmas,20180418_0913,topics,2,0.005,xn,
+lemmas,20180418_0913,topics,2,0.005,pn,
+lemmas,20180418_0913,topics,2,0.005,sn,
+lemmas,20180418_0913,topics,2,0.004,length,
+lemmas,20180418_0913,topics,2,0.004,bn,
+lemmas,20180418_0913,topics,2,0.004,positive,
+lemmas,20180418_0913,topics,2,0.004,equal,
+lemmas,20180418_0913,topics,2,0.004,symmetric,
+lemmas,20180418_0913,topics,2,0.004,ak,
+lemmas,20180418_0913,topics,3,0.023,solution,
+lemmas,20180418_0913,topics,3,0.022,equation,
+lemmas,20180418_0913,topics,3,0.016,madison,
+lemmas,20180418_0913,topics,3,0.016,wisconsin,
+lemmas,20180418_0913,topics,3,0.014,download,
+lemmas,20180418_0913,topics,3,0.011,article,
+lemmas,20180418_0913,topics,3,0.01,november,
+lemmas,20180418_0913,topics,3,0.009,system,
+lemmas,20180418_0913,topics,3,0.007,analysis,analysis
+lemmas,20180418_0913,topics,3,0.007,operator,
+lemmas,20180418_0913,topics,3,0.007,december,
+lemmas,20180418_0913,topics,3,0.006,method,
+lemmas,20180418_0913,topics,3,0.006,dx,analysis
+lemmas,20180418_0913,topics,3,0.005,boundary,
+lemmas,20180418_0913,topics,3,0.005,constant,
+lemmas,20180418_0913,topics,3,0.005,space,
+lemmas,20180418_0913,topics,3,0.004,applicable,
+lemmas,20180418_0913,topics,3,0.004,view,
+lemmas,20180418_0913,topics,3,0.004,estimate,
+lemmas,20180418_0913,topics,3,0.004,integral,analysis
+lemmas,20180418_0913,topics,4,0.02,group,algebra
+lemmas,20180418_0913,topics,4,0.018,algebra,algebra
+lemmas,20180418_0913,topics,4,0.011,module,
+lemmas,20180418_0913,topics,4,0.009,lie,algebra
+lemmas,20180418_0913,topics,4,0.009,proposition,
+lemmas,20180418_0913,topics,4,0.008,ring,algebra
+lemmas,20180418_0913,topics,4,0.008,representation,
+lemmas,20180418_0913,topics,4,0.007,ideal,algebra
+lemmas,20180418_0913,topics,4,0.007,action,
+lemmas,20180418_0913,topics,4,0.007,advance,
+lemmas,20180418_0913,topics,4,0.006,invariant,
+lemmas,20180418_0913,topics,4,0.006,subgroup,algebra
+lemmas,20180418_0913,topics,4,0.006,vector,algebra
+lemmas,20180418_0913,topics,4,0.005,generate,
+lemmas,20180418_0913,topics,4,0.005,irreducible,algebra
+lemmas,20180418_0913,topics,4,0.005,type,
+lemmas,20180418_0913,topics,4,0.005,dim,
+lemmas,20180418_0913,topics,4,0.005,polynomial,algebra
+lemmas,20180418_0913,topics,4,0.005,map,
+lemmas,20180418_0913,topics,4,0.005,degree,
+lemmas,20180418_0913,topics,5,0.027,map,
+lemmas,20180418_0913,topics,5,0.017,category,category theory
+lemmas,20180418_0913,topics,5,0.014,space,
+lemmas,20180418_0913,topics,5,0.011,morphism,algebra
+lemmas,20180418_0913,topics,5,0.01,functor,category theory
+lemmas,20180418_0913,topics,5,0.009,object,
+lemmas,20180418_0913,topics,5,0.009,structure,
+lemmas,20180418_0913,topics,5,0.009,algebra,algebra
+lemmas,20180418_0913,topics,5,0.008,complex,
+lemmas,20180418_0913,topics,5,0.008,isomorphism,algebra
+lemmas,20180418_0913,topics,5,0.007,equivalence,
+lemmas,20180418_0913,topics,5,0.006,proposition,
+lemmas,20180418_0913,topics,5,0.006,advance,
+lemmas,20180418_0913,topics,5,0.006,diagram,
+lemmas,20180418_0913,topics,5,0.006,topological,topology
+lemmas,20180418_0913,topics,5,0.005,homotopy,topology
+lemmas,20180418_0913,topics,5,0.005,deﬁnition,
+lemmas,20180418_0913,topics,5,0.005,module,
+lemmas,20180418_0913,topics,5,0.005,induce,
+lemmas,20180418_0913,topics,5,0.005,homomorphism,algebra
+lemmas,20180418_0913,topics,6,0.091,de,
+lemmas,20180418_0913,topics,6,0.034,la,
+lemmas,20180418_0913,topics,6,0.022,est,
+lemmas,20180418_0913,topics,6,0.022,le,
+lemmas,20180418_0913,topics,6,0.02,en,
+lemmas,20180418_0913,topics,6,0.019,si,
+lemmas,20180418_0913,topics,6,0.019,des,
+lemmas,20180418_0913,topics,6,0.015,les,
+lemmas,20180418_0913,topics,6,0.013,une,
+lemmas,20180418_0913,topics,6,0.013,par,
+lemmas,20180418_0913,topics,6,0.011,pour,
+lemmas,20180418_0913,topics,6,0.011,du,
+lemmas,20180418_0913,topics,6,0.01,il,
+lemmas,20180418_0913,topics,6,0.01,sur,
+lemmas,20180418_0913,topics,6,0.009,ce,
+lemmas,20180418_0913,topics,6,0.006,soit,
+lemmas,20180418_0913,topics,6,0.006,dan,
+lemmas,20180418_0913,topics,6,0.006,nous,
+lemmas,20180418_0913,topics,6,0.006,au,
+lemmas,20180418_0913,topics,6,0.005,dans,
+lemmas,20180418_0913,topics,7,0.023,group,
+lemmas,20180418_0913,topics,7,0.022,mod,
+lemmas,20180418_0913,topics,7,0.02,code,
+lemmas,20180418_0913,topics,7,0.019,block,
+lemmas,20180418_0913,topics,7,0.015,line,
+lemmas,20180418_0913,topics,7,0.014,design,
+lemmas,20180418_0913,topics,7,0.01,type,
+lemmas,20180418_0913,topics,7,0.009,transitive,
+lemmas,20180418_0913,topics,7,0.009,regular,
+lemmas,20180418_0913,topics,7,0.008,square,
+lemmas,20180418_0913,topics,7,0.008,construction,
+lemmas,20180418_0913,topics,7,0.007,prime,
+lemmas,20180418_0913,topics,7,0.007,automorphism,algebra
+lemmas,20180418_0913,topics,7,0.007,size,
+lemmas,20180418_0913,topics,7,0.007,odd,
+lemmas,20180418_0913,topics,7,0.007,system,
+lemmas,20180418_0913,topics,7,0.007,plane,
+lemmas,20180418_0913,topics,7,0.006,cyclic,algebra
+lemmas,20180418_0913,topics,7,0.006,weight,
+lemmas,20180418_0913,topics,7,0.006,triple,
+lemmas,20180418_0913,topics,8,0.015,space,
+lemmas,20180418_0913,topics,8,0.011,operator,
+lemmas,20180418_0913,topics,8,0.009,advance,
+lemmas,20180418_0913,topics,8,0.007,measure,analysis
+lemmas,20180418_0913,topics,8,0.007,rn,
+lemmas,20180418_0913,topics,8,0.006,bound,
+lemmas,20180418_0913,topics,8,0.006,metric,
+lemmas,20180418_0913,topics,8,0.006,constant,
+lemmas,20180418_0913,topics,8,0.005,compact,topology
+lemmas,20180418_0913,topics,8,0.005,proposition,
+lemmas,20180418_0913,topics,8,0.005,deﬁned,
+lemmas,20180418_0913,topics,8,0.005,positive,
+lemmas,20180418_0913,topics,8,0.004,inequality,
+lemmas,20180418_0913,topics,8,0.004,log,
+lemmas,20180418_0913,topics,8,0.004,continuous,analysis
+lemmas,20180418_0913,topics,8,0.004,sequence,number theory
+lemmas,20180418_0913,topics,8,0.004,estimate,
+lemmas,20180418_0913,topics,8,0.004,deﬁnition,
+lemmas,20180418_0913,topics,8,0.004,ﬁrst,
+lemmas,20180418_0913,topics,8,0.004,dx,analysis
+lemmas,20180418_0913,topics,9,0.047,edge,graph theory
+lemmas,20180418_0913,topics,9,0.023,cycle,graph theory
+lemmas,20180418_0913,topics,9,0.02,path,
+lemmas,20180418_0913,topics,9,0.013,color,graph theory
+lemmas,20180418_0913,topics,9,0.013,degree,
+lemmas,20180418_0913,topics,9,0.013,connected,graph theory
+lemmas,20180418_0913,topics,9,0.013,subgraph,graph theory
+lemmas,20180418_0913,topics,9,0.011,adjacent,
+lemmas,20180418_0913,topics,9,0.009,vi,
+lemmas,20180418_0913,topics,9,0.008,coloring,graph theory
+lemmas,20180418_0913,topics,9,0.008,induce,
+lemmas,20180418_0913,topics,9,0.007,component,graph theory
+lemmas,20180418_0913,topics,9,0.007,length,
+lemmas,20180418_0913,topics,9,0.007,free,
+lemmas,20180418_0913,topics,9,0.006,bipartite,graph theory
+lemmas,20180418_0913,topics,9,0.006,claim,
+lemmas,20180418_0913,topics,9,0.006,contradiction,
+lemmas,20180418_0913,topics,9,0.006,clique,graph theory
+lemmas,20180418_0913,topics,9,0.006,hamiltonian,graph theory
+lemmas,20180418_0913,topics,9,0.006,connect,
+lemmas,20180416_0825,topics,0,0.025,solution,
+lemmas,20180416_0825,topics,0,0.023,equation,
+lemmas,20180416_0825,topics,0,0.016,madison,
+lemmas,20180416_0825,topics,0,0.016,wisconsin,
+lemmas,20180416_0825,topics,0,0.015,download,
+lemmas,20180416_0825,topics,0,0.012,article,
+lemmas,20180416_0825,topics,0,0.011,november,
+lemmas,20180416_0825,topics,0,0.007,analysis,analysis
+lemmas,20180416_0825,topics,0,0.007,system,
+lemmas,20180416_0825,topics,0,0.007,dx,analysis
+lemmas,20180416_0825,topics,0,0.007,december,
+lemmas,20180416_0825,topics,0,0.006,boundary,
+lemmas,20180416_0825,topics,0,0.006,method,
+lemmas,20180416_0825,topics,0,0.006,operator,
+lemmas,20180416_0825,topics,0,0.005,space,
+lemmas,20180416_0825,topics,0,0.005,differential,analysis
+lemmas,20180416_0825,topics,0,0.005,constant,
+lemmas,20180416_0825,topics,0,0.005,applicable,
+lemmas,20180416_0825,topics,0,0.005,view,
+lemmas,20180416_0825,topics,0,0.004,inequality,
+lemmas,20180416_0825,topics,1,0.02,space,
+lemmas,20180416_0825,topics,1,0.011,operator,
+lemmas,20180416_0825,topics,1,0.009,advance,
+lemmas,20180416_0825,topics,1,0.008,rn,
+lemmas,20180416_0825,topics,1,0.007,measure,analysis
+lemmas,20180416_0825,topics,1,0.006,compact,topology
+lemmas,20180416_0825,topics,1,0.006,metric,
+lemmas,20180416_0825,topics,1,0.006,constant,
+lemmas,20180416_0825,topics,1,0.006,bound,
+lemmas,20180416_0825,topics,1,0.006,proposition,
+lemmas,20180416_0825,topics,1,0.005,map,
+lemmas,20180416_0825,topics,1,0.005,continuous,analysis
+lemmas,20180416_0825,topics,1,0.005,convex,
+lemmas,20180416_0825,topics,1,0.005,vector,algebra
+lemmas,20180416_0825,topics,1,0.005,deﬁned,
+lemmas,20180416_0825,topics,1,0.004,real,
+lemmas,20180416_0825,topics,1,0.004,log,
+lemmas,20180416_0825,topics,1,0.004,inequality,
+lemmas,20180416_0825,topics,1,0.004,open,
+lemmas,20180416_0825,topics,1,0.004,manifold,topology
+lemmas,20180416_0825,topics,2,0.029,group,
+lemmas,20180416_0825,topics,2,0.022,block,
+lemmas,20180416_0825,topics,2,0.021,mod,
+lemmas,20180416_0825,topics,2,0.017,design,
+lemmas,20180416_0825,topics,2,0.016,code,
+lemmas,20180416_0825,topics,2,0.015,type,
+lemmas,20180416_0825,topics,2,0.013,line,
+lemmas,20180416_0825,topics,2,0.009,system,
+lemmas,20180416_0825,topics,2,0.008,triple,
+lemmas,20180416_0825,topics,2,0.007,prime,number theory
+lemmas,20180416_0825,topics,2,0.007,plane,
+lemmas,20180416_0825,topics,2,0.007,transitive,
+lemmas,20180416_0825,topics,2,0.007,construction,
+lemmas,20180416_0825,topics,2,0.007,automorphism,algebra
+lemmas,20180416_0825,topics,2,0.007,size,
+lemmas,20180416_0825,topics,2,0.007,subgroup,algebra
+lemmas,20180416_0825,topics,2,0.006,regular,
+lemmas,20180416_0825,topics,2,0.006,weight,
+lemmas,20180416_0825,topics,2,0.006,cyclic,algebra
+lemmas,20180416_0825,topics,2,0.006,gf,
+lemmas,20180416_0825,topics,3,0.017,algebra,algebra
+lemmas,20180416_0825,topics,3,0.015,map,
+lemmas,20180416_0825,topics,3,0.013,group,algebra
+lemmas,20180416_0825,topics,3,0.01,module,
+lemmas,20180416_0825,topics,3,0.009,proposition,
+lemmas,20180416_0825,topics,3,0.008,category,category theory
+lemmas,20180416_0825,topics,3,0.008,advance,
+lemmas,20180416_0825,topics,3,0.007,ring,algebra
+lemmas,20180416_0825,topics,3,0.007,space,
+lemmas,20180416_0825,topics,3,0.006,isomorphism,algebra
+lemmas,20180416_0825,topics,3,0.006,ideal,algebra
+lemmas,20180416_0825,topics,3,0.006,ﬁnite,
+lemmas,20180416_0825,topics,3,0.006,lie,algebra
+lemmas,20180416_0825,topics,3,0.005,structure,
+lemmas,20180416_0825,topics,3,0.005,morphism,algebra
+lemmas,20180416_0825,topics,3,0.005,complex,
+lemmas,20180416_0825,topics,3,0.005,action,
+lemmas,20180416_0825,topics,3,0.005,representation,
+lemmas,20180416_0825,topics,3,0.005,object,
+lemmas,20180416_0825,topics,3,0.004,dim,
+lemmas,20180416_0825,topics,4,0.023,xi,
+lemmas,20180416_0825,topics,4,0.012,sequence,number theory
+lemmas,20180416_0825,topics,4,0.011,xn,
+lemmas,20180416_0825,topics,4,0.01,pi,
+lemmas,20180416_0825,topics,4,0.01,vi,
+lemmas,20180416_0825,topics,4,0.01,cn,
+lemmas,20180416_0825,topics,4,0.01,pn,
+lemmas,20180416_0825,topics,4,0.009,xj,
+lemmas,20180416_0825,topics,4,0.008,ci,
+lemmas,20180416_0825,topics,4,0.008,bus,
+lemmas,20180416_0825,topics,4,0.008,ti,
+lemmas,20180416_0825,topics,4,0.008,kn,
+lemmas,20180416_0825,topics,4,0.008,xk,
+lemmas,20180416_0825,topics,4,0.008,al,
+lemmas,20180416_0825,topics,4,0.007,di,
+lemmas,20180416_0825,topics,4,0.007,pk,
+lemmas,20180416_0825,topics,4,0.007,si,
+lemmas,20180416_0825,topics,4,0.007,ak,
+lemmas,20180416_0825,topics,4,0.006,mi,
+lemmas,20180416_0825,topics,4,0.006,mn,
+lemmas,20180416_0825,topics,5,0.031,de,
+lemmas,20180416_0825,topics,5,0.021,define,
+lemmas,20180416_0825,topics,5,0.013,finite,
+lemmas,20180416_0825,topics,5,0.012,la,
+lemmas,20180416_0825,topics,5,0.01,cl,
+lemmas,20180416_0825,topics,5,0.009,le,
+lemmas,20180416_0825,topics,5,0.008,fl,
+lemmas,20180416_0825,topics,5,0.008,est,
+lemmas,20180416_0825,topics,5,0.008,definition,
+lemmas,20180416_0825,topics,5,0.007,en,
+lemmas,20180416_0825,topics,5,0.007,si,
+lemmas,20180416_0825,topics,5,0.007,cent,
+lemmas,20180416_0825,topics,5,0.006,des,
+lemmas,20180416_0825,topics,5,0.006,el,
+lemmas,20180416_0825,topics,5,0.006,il,
+lemmas,20180416_0825,topics,5,0.006,xl,
+lemmas,20180416_0825,topics,5,0.006,les,
+lemmas,20180416_0825,topics,5,0.005,ll,
+lemmas,20180416_0825,topics,5,0.005,iv,
+lemmas,20180416_0825,topics,5,0.005,une,
+lemmas,20180416_0825,topics,6,0.012,tree,graph theory
+lemmas,20180416_0825,topics,6,0.01,sequence,number theory
+lemmas,20180416_0825,topics,6,0.01,algorithm,
+lemmas,20180416_0825,topics,6,0.009,interval,
+lemmas,20180416_0825,topics,6,0.008,log,
+lemmas,20180416_0825,topics,6,0.007,fig,
+lemmas,20180416_0825,topics,6,0.006,node,
+lemmas,20180416_0825,topics,6,0.006,time,
+lemmas,20180416_0825,topics,6,0.006,chain,
+lemmas,20180416_0825,topics,6,0.006,bind,
+lemmas,20180416_0825,topics,6,0.005,partition,number theory
+lemmas,20180416_0825,topics,6,0.005,size,
+lemmas,20180416_0825,topics,6,0.005,family,
+lemmas,20180416_0825,topics,6,0.005,move,
+lemmas,20180416_0825,topics,6,0.005,step,
+lemmas,20180416_0825,topics,6,0.005,label,
+lemmas,20180416_0825,topics,6,0.004,define,
+lemmas,20180416_0825,topics,6,0.004,random,
+lemmas,20180416_0825,topics,6,0.004,bound,
+lemmas,20180416_0825,topics,6,0.004,maximal,
+lemmas,20180416_0825,topics,7,0.055,edge,graph theory
+lemmas,20180416_0825,topics,7,0.029,color,graph theory
+lemmas,20180416_0825,topics,7,0.015,coloring,graph theory
+lemmas,20180416_0825,topics,7,0.013,face,
+lemmas,20180416_0825,topics,7,0.012,fig,
+lemmas,20180416_0825,topics,7,0.01,colour,graph theory
+lemmas,20180416_0825,topics,7,0.01,planar,graph theory
+lemmas,20180416_0825,topics,7,0.009,triangle,
+lemmas,20180416_0825,topics,7,0.009,chromatic,graph theory
+lemmas,20180416_0825,topics,7,0.008,degree,
+lemmas,20180416_0825,topics,7,0.008,cycle,graph theory
+lemmas,20180416_0825,topics,7,0.007,matroid,combinatorics
+lemmas,20180416_0825,topics,7,0.007,incident,
+lemmas,20180416_0825,topics,7,0.006,plane,
+lemmas,20180416_0825,topics,7,0.006,connected,graph theory
+lemmas,20180416_0825,topics,7,0.006,embedding,
+lemmas,20180416_0825,topics,7,0.005,conjecture,
+lemmas,20180416_0825,topics,7,0.005,circuit,
+lemmas,20180416_0825,topics,7,0.005,triangulation,
+lemmas,20180416_0825,topics,7,0.005,colouring,graph theory
+lemmas,20180416_0825,topics,8,0.024,matrix,algebra
+lemmas,20180416_0825,topics,8,0.021,polynomial,algebra
+lemmas,20180416_0825,topics,8,0.009,row,
+lemmas,20180416_0825,topics,8,0.008,column,
+lemmas,20180416_0825,topics,8,0.008,partition,number theory
+lemmas,20180416_0825,topics,8,0.008,word,
+lemmas,20180416_0825,topics,8,0.008,permutation,combinatorics
+lemmas,20180416_0825,topics,8,0.007,sum,
+lemmas,20180416_0825,topics,8,0.006,formulum,
+lemmas,20180416_0825,topics,8,0.006,identity,
+lemmas,20180416_0825,topics,8,0.006,symmetric,
+lemmas,20180416_0825,topics,8,0.005,series,
+lemmas,20180416_0825,topics,8,0.005,entry,
+lemmas,20180416_0825,topics,8,0.005,generate,
+lemmas,20180416_0825,topics,8,0.005,basis,
+lemmas,20180416_0825,topics,8,0.004,relation,
+lemmas,20180416_0825,topics,8,0.004,vector,algebra
+lemmas,20180416_0825,topics,8,0.004,combinatorial,combinatorics
+lemmas,20180416_0825,topics,8,0.004,equal,
+lemmas,20180416_0825,topics,8,0.004,define,
+lemmas,20180416_0825,topics,9,0.034,edge,graph theory
+lemmas,20180416_0825,topics,9,0.03,cycle,graph theory
+lemmas,20180416_0825,topics,9,0.026,path,graph theory
+lemmas,20180416_0825,topics,9,0.015,connected,graph theory
+lemmas,20180416_0825,topics,9,0.015,subgraph,graph theory
+lemmas,20180416_0825,topics,9,0.015,degree,
+lemmas,20180416_0825,topics,9,0.013,adjacent,
+lemmas,20180416_0825,topics,9,0.01,component,
+lemmas,20180416_0825,topics,9,0.009,digraph,graph theory
+lemmas,20180416_0825,topics,9,0.009,length,
+lemmas,20180416_0825,topics,9,0.009,induce,
+lemmas,20180416_0825,topics,9,0.008,claim,
+lemmas,20180416_0825,topics,9,0.008,contradiction,
+lemmas,20180416_0825,topics,9,0.008,hamiltonian,graph theory
+lemmas,20180416_0825,topics,9,0.008,bipartite,graph theory
+lemmas,20180416_0825,topics,9,0.008,tree,
+lemmas,20180416_0825,topics,9,0.007,vi,
+lemmas,20180416_0825,topics,9,0.007,connect,
+lemmas,20180416_0825,topics,9,0.007,free,
+lemmas,20180416_0825,topics,9,0.007,disjoint,
+words,20180413_0920,topics,0,0.017,matrix,algebra
+words,20180413_0920,topics,0,0.014,codes,
+words,20180413_0920,topics,0,0.012,weight,
+words,20180413_0920,topics,0,0.012,code,
+words,20180413_0920,topics,0,0.008,department,
+words,20180413_0920,topics,0,0.008,usa,
+words,20180413_0920,topics,0,0.008,matrices,algebra
+words,20180413_0920,topics,0,0.006,numbers,
+words,20180413_0920,topics,0,0.006,generating,
+words,20180413_0920,topics,0,0.006,length,
+words,20180413_0920,topics,0,0.005,permutations,combinatorics
+words,20180413_0920,topics,0,0.005,word,
+words,20180413_0920,topics,0,0.004,rows,
+words,20180413_0920,topics,0,0.004,permutation,combinatorics
+words,20180413_0920,topics,0,0.004,binary,
+words,20180413_0920,topics,0,0.004,institute,
+words,20180413_0920,topics,0,0.004,words,
+words,20180413_0920,topics,0,0.004,qn,
+words,20180413_0920,topics,0,0.004,mathematical,
+words,20180413_0920,topics,0,0.004,pp,
+words,20180413_0920,topics,1,0.007,polynomial,algebra
+words,20180413_0920,topics,1,0.007,algebra,algebra
+words,20180413_0920,topics,1,0.006,xi,
+words,20180413_0920,topics,1,0.006,proposition,
+words,20180413_0920,topics,1,0.006,ei,
+words,20180413_0920,topics,1,0.006,polynomials,algebra
+words,20180413_0920,topics,1,0.006,matrix,algebra
+words,20180413_0920,topics,1,0.005,basis,algebra
+words,20180413_0920,topics,1,0.005,lie,algebra
+words,20180413_0920,topics,1,0.005,ai,
+words,20180413_0920,topics,1,0.005,representation,
+words,20180413_0920,topics,1,0.005,type,
+words,20180413_0920,topics,1,0.005,xn,
+words,20180413_0920,topics,1,0.004,formula,
+words,20180413_0920,topics,1,0.004,advances,
+words,20180413_0920,topics,1,0.004,vector,algebra
+words,20180413_0920,topics,1,0.004,functions,algebra
+words,20180413_0920,topics,1,0.004,symmetric,
+words,20180413_0920,topics,1,0.004,pn,
+words,20180413_0920,topics,1,0.004,elements,
+words,20180413_0920,topics,2,0.012,function,algebra
+words,20180413_0920,topics,2,0.01,space,
+words,20180413_0920,topics,2,0.008,rn,
+words,20180413_0920,topics,2,0.008,advances,
+words,20180413_0920,topics,2,0.006,operator,
+words,20180413_0920,topics,2,0.006,functions,algebra
+words,20180413_0920,topics,2,0.006,bounded,
+words,20180413_0920,topics,2,0.006,log,
+words,20180413_0920,topics,2,0.005,compact,topology
+words,20180413_0920,topics,2,0.005,measure,analysis
+words,20180413_0920,topics,2,0.005,convex,
+words,20180413_0920,topics,2,0.005,point,
+words,20180413_0920,topics,2,0.005,continuous,analysis
+words,20180413_0920,topics,2,0.005,proposition,
+words,20180413_0920,topics,2,0.005,spaces,
+words,20180413_0920,topics,2,0.005,positive,
+words,20180413_0920,topics,2,0.004,constant,
+words,20180413_0920,topics,2,0.004,metric,
+words,20180413_0920,topics,2,0.004,deﬁned,
+words,20180413_0920,topics,2,0.004,operators,
+words,20180413_0920,topics,3,0.013,map,
+words,20180413_0920,topics,3,0.009,algebra,algebra
+words,20180413_0920,topics,3,0.008,category,category theory
+words,20180413_0920,topics,3,0.007,proposition,
+words,20180413_0920,topics,3,0.006,isomorphism,algebra
+words,20180413_0920,topics,3,0.006,module,
+words,20180413_0920,topics,3,0.006,advances,
+words,20180413_0920,topics,3,0.006,space,
+words,20180413_0920,topics,3,0.006,structure,
+words,20180413_0920,topics,3,0.005,ﬁnite,
+words,20180413_0920,topics,3,0.005,algebras,algebra
+words,20180413_0920,topics,3,0.005,closed,
+words,20180413_0920,topics,3,0.005,maps,
+words,20180413_0920,topics,3,0.005,ring,algebra
+words,20180413_0920,topics,3,0.005,morphism,algebra
+words,20180413_0920,topics,3,0.005,ideal,algebra
+words,20180413_0920,topics,3,0.005,modules,
+words,20180413_0920,topics,3,0.004,complex,
+words,20180413_0920,topics,3,0.004,group,algebra
+words,20180413_0920,topics,3,0.004,functor,category theory
+words,20180413_0920,topics,4,0.03,de,
+words,20180413_0920,topics,4,0.013,la,
+words,20180413_0920,topics,4,0.011,cl,
+words,20180413_0920,topics,4,0.01,defined,
+words,20180413_0920,topics,4,0.009,le,
+words,20180413_0920,topics,4,0.008,fl,
+words,20180413_0920,topics,4,0.008,si,
+words,20180413_0920,topics,4,0.008,est,
+words,20180413_0920,topics,4,0.008,en,
+words,20180413_0920,topics,4,0.007,define,
+words,20180413_0920,topics,4,0.007,xl,
+words,20180413_0920,topics,4,0.007,cents,
+words,20180413_0920,topics,4,0.006,ll,
+words,20180413_0920,topics,4,0.006,definition,
+words,20180413_0920,topics,4,0.006,il,
+words,20180413_0920,topics,4,0.006,les,
+words,20180413_0920,topics,4,0.006,des,
+words,20180413_0920,topics,4,0.005,finite,
+words,20180413_0920,topics,4,0.005,fi,
+words,20180413_0920,topics,4,0.005,el,
+words,20180413_0920,topics,5,0.017,mod,
+words,20180413_0920,topics,5,0.013,fig,
+words,20180413_0920,topics,5,0.01,block,
+words,20180413_0920,topics,5,0.009,type,
+words,20180413_0920,topics,5,0.008,designs,
+words,20180413_0920,topics,5,0.008,blocks,
+words,20180413_0920,topics,5,0.007,design,
+words,20180413_0920,topics,5,0.007,face,
+words,20180413_0920,topics,5,0.007,plane,
+words,20180413_0920,topics,5,0.006,construction,
+words,20180413_0920,topics,5,0.006,odd,
+words,20180413_0920,topics,5,0.005,faces,
+words,20180413_0920,topics,5,0.005,triple,
+words,20180413_0920,topics,5,0.005,square,
+words,20180413_0920,topics,5,0.005,points,
+words,20180413_0920,topics,5,0.005,systems,
+words,20180413_0920,topics,5,0.005,edges,graph theory
+words,20180413_0920,topics,5,0.005,size,
+words,20180413_0920,topics,5,0.005,system,
+words,20180413_0920,topics,5,0.005,pair,
+words,20180413_0920,topics,6,0.038,vertex,graph theory
+words,20180413_0920,topics,6,0.038,vertices,graph theory
+words,20180413_0920,topics,6,0.038,graphs,graph theory
+words,20180413_0920,topics,6,0.021,edge,graph theory
+words,20180413_0920,topics,6,0.019,edges,graph theory
+words,20180413_0920,topics,6,0.016,connected,graph theory
+words,20180413_0920,topics,6,0.013,cycle,graph theory
+words,20180413_0920,topics,6,0.013,path,
+words,20180413_0920,topics,6,0.012,degree,
+words,20180413_0920,topics,6,0.01,adjacent,
+words,20180413_0920,topics,6,0.008,subgraph,graph theory
+words,20180413_0920,topics,6,0.007,vi,
+words,20180413_0920,topics,6,0.007,coloring,graph theory
+words,20180413_0920,topics,6,0.006,induced,
+words,20180413_0920,topics,6,0.006,cycles,graph theory
+words,20180413_0920,topics,6,0.006,contradiction,
+words,20180413_0920,topics,6,0.005,length,
+words,20180413_0920,topics,6,0.005,bipartite,graph theory
+words,20180413_0920,topics,6,0.005,claim,
+words,20180413_0920,topics,6,0.005,hamiltonian,graph theory
+words,20180413_0920,topics,7,0.027,group,algebra
+words,20180413_0920,topics,7,0.02,points,
+words,20180413_0920,topics,7,0.018,point,
+words,20180413_0920,topics,7,0.012,line,
+words,20180413_0920,topics,7,0.012,groups,algebra
+words,20180413_0920,topics,7,0.01,prime,number theory
+words,20180413_0920,topics,7,0.009,subgroup,algebra
+words,20180413_0920,topics,7,0.009,regular,
+words,20180413_0920,topics,7,0.009,transitive,
+words,20180413_0920,topics,7,0.008,lines,
+words,20180413_0920,topics,7,0.008,finite,
+words,20180413_0920,topics,7,0.008,automorphism,algebra
+words,20180413_0920,topics,7,0.007,aut,
+words,20180413_0920,topics,7,0.007,isomorphic,algebra
+words,20180413_0920,topics,7,0.006,element,
+words,20180413_0920,topics,7,0.006,proposition,
+words,20180413_0920,topics,7,0.006,pg,
+words,20180413_0920,topics,7,0.006,elements,
+words,20180413_0920,topics,7,0.005,plane,
+words,20180413_0920,topics,7,0.005,class,
+words,20180413_0920,topics,8,0.009,sequence,number theory
+words,20180413_0920,topics,8,0.007,algorithm,
+words,20180413_0920,topics,8,0.006,tree,graph theory
+words,20180413_0920,topics,8,0.006,ai,
+words,20180413_0920,topics,8,0.006,function,algebra
+words,20180413_0920,topics,8,0.005,interval,
+words,20180413_0920,topics,8,0.005,log,
+words,20180413_0920,topics,8,0.005,bound,
+words,20180413_0920,topics,8,0.005,partition,number theory
+words,20180413_0920,topics,8,0.005,trees,graph theory
+words,20180413_0920,topics,8,0.005,elements,set theory
+words,20180413_0920,topics,8,0.005,time,
+words,20180413_0920,topics,8,0.004,property,
+words,20180413_0920,topics,8,0.004,lattice,algebra
+words,20180413_0920,topics,8,0.004,ordered,
+words,20180413_0920,topics,8,0.004,element,set theory
+words,20180413_0920,topics,8,0.004,random,
+words,20180413_0920,topics,8,0.004,finite,
+words,20180413_0920,topics,8,0.004,node,graph theory
+words,20180413_0920,topics,8,0.004,subset,set theory
+words,20180413_0920,topics,9,0.015,solution,
+words,20180413_0920,topics,9,0.015,wisconsin,
+words,20180413_0920,topics,9,0.014,madison,
+words,20180413_0920,topics,9,0.013,downloaded,
+words,20180413_0920,topics,9,0.011,equation,
+words,20180413_0920,topics,9,0.011,equations,
+words,20180413_0920,topics,9,0.01,november,
+words,20180413_0920,topics,9,0.01,solutions,
+words,20180413_0920,topics,9,0.007,article,
+words,20180413_0920,topics,9,0.007,function,algebra
+words,20180413_0920,topics,9,0.007,analysis,analysis
+words,20180413_0920,topics,9,0.006,boundary,
+words,20180413_0920,topics,9,0.005,dx,analysis
+words,20180413_0920,topics,9,0.005,system,
+words,20180413_0920,topics,9,0.005,problems,
+words,20180413_0920,topics,9,0.005,differential,analysis
+words,20180413_0920,topics,9,0.004,applicable,
+words,20180413_0920,topics,9,0.004,functions,algebra
+words,20180413_0920,topics,9,0.004,nonlinear,
+words,20180413_0920,topics,9,0.004,method,
+words,20180416_1241,topics,0,0.01,function,algebra
+words,20180416_1241,topics,0,0.01,advances,
+words,20180416_1241,topics,0,0.007,rn,
+words,20180416_1241,topics,0,0.007,log,
+words,20180416_1241,topics,0,0.005,functions,algebra
+words,20180416_1241,topics,0,0.005,point,
+words,20180416_1241,topics,0,0.005,proposition,
+words,20180416_1241,topics,0,0.005,constant,
+words,20180416_1241,topics,0,0.005,deﬁned,
+words,20180416_1241,topics,0,0.004,ﬁrst,
+words,20180416_1241,topics,0,0.004,positive,
+words,20180416_1241,topics,0,0.004,deﬁnition,
+words,20180416_1241,topics,0,0.003,points,
+words,20180416_1241,topics,0,0.003,operator,
+words,20180416_1241,topics,0,0.003,deﬁne,
+words,20180416_1241,topics,0,0.003,al,
+words,20180416_1241,topics,0,0.003,real,
+words,20180416_1241,topics,0,0.003,ln,
+words,20180416_1241,topics,0,0.003,cn,
+words,20180416_1241,topics,0,0.003,exp,
+words,20180416_1241,topics,1,0.032,de,
+words,20180416_1241,topics,1,0.013,la,
+words,20180416_1241,topics,1,0.009,le,
+words,20180416_1241,topics,1,0.009,fl,
+words,20180416_1241,topics,1,0.009,en,
+words,20180416_1241,topics,1,0.008,est,
+words,20180416_1241,topics,1,0.008,si,
+words,20180416_1241,topics,1,0.008,defined,
+words,20180416_1241,topics,1,0.007,cl,
+words,20180416_1241,topics,1,0.007,des,
+words,20180416_1241,topics,1,0.007,define,
+words,20180416_1241,topics,1,0.007,cents,
+words,20180416_1241,topics,1,0.006,les,
+words,20180416_1241,topics,1,0.006,il,
+words,20180416_1241,topics,1,0.006,el,
+words,20180416_1241,topics,1,0.006,ll,
+words,20180416_1241,topics,1,0.005,fi,
+words,20180416_1241,topics,1,0.005,pi,
+words,20180416_1241,topics,1,0.005,xl,
+words,20180416_1241,topics,1,0.005,une,
+words,20180416_1241,topics,2,0.016,solution,
+words,20180416_1241,topics,2,0.011,equation,
+words,20180416_1241,topics,2,0.011,equations,
+words,20180416_1241,topics,2,0.01,wisconsin,
+words,20180416_1241,topics,2,0.01,madison,
+words,20180416_1241,topics,2,0.01,solutions,
+words,20180416_1241,topics,2,0.009,november,
+words,20180416_1241,topics,2,0.009,downloaded,
+words,20180416_1241,topics,2,0.007,analysis,analysis
+words,20180416_1241,topics,2,0.007,function,algebra
+words,20180416_1241,topics,2,0.007,boundary,
+words,20180416_1241,topics,2,0.007,dx,analysis
+words,20180416_1241,topics,2,0.006,article,
+words,20180416_1241,topics,2,0.006,system,
+words,20180416_1241,topics,2,0.005,problems,
+words,20180416_1241,topics,2,0.004,positive,
+words,20180416_1241,topics,2,0.004,functions,algebra
+words,20180416_1241,topics,2,0.004,applicable,
+words,20180416_1241,topics,2,0.004,time,
+words,20180416_1241,topics,2,0.004,method,
+words,20180416_1241,topics,3,0.029,vertex,graph theory
+words,20180416_1241,topics,3,0.024,cycle,graph theory
+words,20180416_1241,topics,3,0.023,vertices,graph theory
+words,20180416_1241,topics,3,0.022,path,
+words,20180416_1241,topics,3,0.02,connected,graph theory
+words,20180416_1241,topics,3,0.014,xi,
+words,20180416_1241,topics,3,0.012,vi,
+words,20180416_1241,topics,3,0.012,cycles,graph theory
+words,20180416_1241,topics,3,0.011,length,
+words,20180416_1241,topics,3,0.01,graphs,graph theory
+words,20180416_1241,topics,3,0.01,contradiction,
+words,20180416_1241,topics,3,0.01,claim,
+words,20180416_1241,topics,3,0.009,hamiltonian,graph theory
+words,20180416_1241,topics,3,0.009,edge,graph theory
+words,20180416_1241,topics,3,0.008,paths,
+words,20180416_1241,topics,3,0.008,adjacent,
+words,20180416_1241,topics,3,0.007,degree,
+words,20180416_1241,topics,3,0.007,digraph,graph theory
+words,20180416_1241,topics,3,0.006,arc,
+words,20180416_1241,topics,3,0.006,ui,
+words,20180416_1241,topics,4,0.012,algebra,algebra
+words,20180416_1241,topics,4,0.01,group,algebra
+words,20180416_1241,topics,4,0.009,map,
+words,20180416_1241,topics,4,0.007,proposition,
+words,20180416_1241,topics,4,0.006,advances,
+words,20180416_1241,topics,4,0.006,algebras,algebra
+words,20180416_1241,topics,4,0.006,module,
+words,20180416_1241,topics,4,0.006,category,category theory
+words,20180416_1241,topics,4,0.005,groups,algebra
+words,20180416_1241,topics,4,0.005,isomorphism,algebra
+words,20180416_1241,topics,4,0.005,action,
+words,20180416_1241,topics,4,0.005,lie,algebra
+words,20180416_1241,topics,4,0.005,ﬁnite,
+words,20180416_1241,topics,4,0.004,ring,algebra
+words,20180416_1241,topics,4,0.004,dim,
+words,20180416_1241,topics,4,0.004,structure,
+words,20180416_1241,topics,4,0.004,generated,
+words,20180416_1241,topics,4,0.004,modules,
+words,20180416_1241,topics,4,0.004,representation,
+words,20180416_1241,topics,4,0.004,space,
+words,20180416_1241,topics,5,0.027,edge,graph theory
+words,20180416_1241,topics,5,0.024,edges,graph theory
+words,20180416_1241,topics,5,0.022,vertex,graph theory
+words,20180416_1241,topics,5,0.021,vertices,graph theory
+words,20180416_1241,topics,5,0.015,coloring,graph theory
+words,20180416_1241,topics,5,0.013,graphs,graph theory
+words,20180416_1241,topics,5,0.013,color,graph theory
+words,20180416_1241,topics,5,0.012,fig,
+words,20180416_1241,topics,5,0.009,connected,graph theory
+words,20180416_1241,topics,5,0.008,planar,graph theory
+words,20180416_1241,topics,5,0.008,degree,
+words,20180416_1241,topics,5,0.008,face,
+words,20180416_1241,topics,5,0.008,incident,
+words,20180416_1241,topics,5,0.008,colors,graph theory
+words,20180416_1241,topics,5,0.006,cycle,graph theory
+words,20180416_1241,topics,5,0.006,colored,graph theory
+words,20180416_1241,topics,5,0.005,plane,
+words,20180416_1241,topics,5,0.005,faces,
+words,20180416_1241,topics,5,0.005,circuit,
+words,20180416_1241,topics,5,0.005,adjacent,
+words,20180416_1241,topics,6,0.016,space,
+words,20180416_1241,topics,6,0.01,spaces,
+words,20180416_1241,topics,6,0.009,finite,
+words,20180416_1241,topics,6,0.008,closed,
+words,20180416_1241,topics,6,0.007,property,
+words,20180416_1241,topics,6,0.007,sequence,number theory
+words,20180416_1241,topics,6,0.007,subset,set theory
+words,20180416_1241,topics,6,0.007,compact,topology
+words,20180416_1241,topics,6,0.006,function,algebra
+words,20180416_1241,topics,6,0.006,proposition,
+words,20180416_1241,topics,6,0.006,continuous,analysis
+words,20180416_1241,topics,6,0.006,december,
+words,20180416_1241,topics,6,0.006,element,
+words,20180416_1241,topics,6,0.006,class,
+words,20180416_1241,topics,6,0.005,operator,
+words,20180416_1241,topics,6,0.005,lattice,algebra
+words,20180416_1241,topics,6,0.005,xn,
+words,20180416_1241,topics,6,0.005,bounded,
+words,20180416_1241,topics,6,0.005,functions,
+words,20180416_1241,topics,6,0.005,open,
+words,20180416_1241,topics,7,0.016,mod,
+words,20180416_1241,topics,7,0.015,points,
+words,20180416_1241,topics,7,0.014,group,
+words,20180416_1241,topics,7,0.012,point,
+words,20180416_1241,topics,7,0.01,type,
+words,20180416_1241,topics,7,0.009,block,
+words,20180416_1241,topics,7,0.007,blocks,
+words,20180416_1241,topics,7,0.007,line,
+words,20180416_1241,topics,7,0.007,code,
+words,20180416_1241,topics,7,0.007,codes,
+words,20180416_1241,topics,7,0.006,regular,
+words,20180416_1241,topics,7,0.006,odd,
+words,20180416_1241,topics,7,0.006,designs,
+words,20180416_1241,topics,7,0.006,prime,number theory
+words,20180416_1241,topics,7,0.006,lines,
+words,20180416_1241,topics,7,0.006,design,
+words,20180416_1241,topics,7,0.006,groups,algebra
+words,20180416_1241,topics,7,0.005,elements,set theory
+words,20180416_1241,topics,7,0.005,transitive,
+words,20180416_1241,topics,7,0.005,pg,
+words,20180416_1241,topics,8,0.04,graphs,graph theory
+words,20180416_1241,topics,8,0.025,vertices,graph theory
+words,20180416_1241,topics,8,0.021,vertex,graph theory
+words,20180416_1241,topics,8,0.012,tree,graph theory
+words,20180416_1241,topics,8,0.011,edges,graph theory
+words,20180416_1241,topics,8,0.01,edge,graph theory
+words,20180416_1241,topics,8,0.008,degree,
+words,20180416_1241,topics,8,0.007,bound,
+words,20180416_1241,topics,8,0.007,subgraph,graph theory
+words,20180416_1241,topics,8,0.007,trees,graph theory
+words,20180416_1241,topics,8,0.007,induced,
+words,20180416_1241,topics,8,0.007,maximum,
+words,20180416_1241,topics,8,0.006,adjacent,
+words,20180416_1241,topics,8,0.006,size,
+words,20180416_1241,topics,8,0.005,perfect,
+words,20180416_1241,topics,8,0.005,clique,graph theory
+words,20180416_1241,topics,8,0.005,minimum,
+words,20180416_1241,topics,8,0.005,bipartite,graph theory
+words,20180416_1241,topics,8,0.005,matching,
+words,20180416_1241,topics,8,0.005,independent,
+words,20180416_1241,topics,9,0.007,sequence,number theory
+words,20180416_1241,topics,9,0.006,matrix,algebra
+words,20180416_1241,topics,9,0.005,row,
+words,20180416_1241,topics,9,0.005,numbers,
+words,20180416_1241,topics,9,0.005,function,algebra
+words,20180416_1241,topics,9,0.005,elements,set theory
+words,20180416_1241,topics,9,0.004,partition,number theory
+words,20180416_1241,topics,9,0.004,sequences,number theory
+words,20180416_1241,topics,9,0.004,usa,
+words,20180416_1241,topics,9,0.004,sum,
+words,20180416_1241,topics,9,0.004,column,
+words,20180416_1241,topics,9,0.004,partitions,number theory
+words,20180416_1241,topics,9,0.004,polynomial,algebra
+words,20180416_1241,topics,9,0.004,department,
+words,20180416_1241,topics,9,0.004,left,
+words,20180416_1241,topics,9,0.004,permutation,combinatorics
+words,20180416_1241,topics,9,0.004,generating,
+words,20180416_1241,topics,9,0.004,combinatorial,combinatorics
+words,20180416_1241,topics,9,0.004,word,
+words,20180416_1241,topics,9,0.004,permutations,combinatorics
+words,20180417_1554,topics,0,0.023,mod,
+words,20180417_1554,topics,0,0.021,group,algebra
+words,20180417_1554,topics,0,0.012,type,
+words,20180417_1554,topics,0,0.012,block,
+words,20180417_1554,topics,0,0.011,blocks,
+words,20180417_1554,topics,0,0.009,groups,algebra
+words,20180417_1554,topics,0,0.009,regular,
+words,20180417_1554,topics,0,0.008,transitive,
+words,20180417_1554,topics,0,0.008,designs,
+words,20180417_1554,topics,0,0.008,prime,number theory
+words,20180417_1554,topics,0,0.008,design,
+words,20180417_1554,topics,0,0.008,points,
+words,20180417_1554,topics,0,0.008,odd,
+words,20180417_1554,topics,0,0.006,automorphism,algebra
+words,20180417_1554,topics,0,0.006,construction,
+words,20180417_1554,topics,0,0.006,size,
+words,20180417_1554,topics,0,0.006,point,
+words,20180417_1554,topics,0,0.006,cyclic,algebra
+words,20180417_1554,topics,0,0.006,aut,
+words,20180417_1554,topics,0,0.005,subgroup,algebra
+words,20180417_1554,topics,1,0.05,de,
+words,20180417_1554,topics,1,0.018,la,
+words,20180417_1554,topics,1,0.013,le,
+words,20180417_1554,topics,1,0.012,usa,
+words,20180417_1554,topics,1,0.011,est,
+words,20180417_1554,topics,1,0.011,department,
+words,20180417_1554,topics,1,0.01,des,
+words,20180417_1554,topics,1,0.009,les,
+words,20180417_1554,topics,1,0.008,en,
+words,20180417_1554,topics,1,0.007,une,
+words,20180417_1554,topics,1,0.006,si,
+words,20180417_1554,topics,1,0.006,institute,
+words,20180417_1554,topics,1,0.006,pour,
+words,20180417_1554,topics,1,0.006,par,
+words,20180417_1554,topics,1,0.006,il,
+words,20180417_1554,topics,1,0.005,du,
+words,20180417_1554,topics,1,0.005,mathematical,
+words,20180417_1554,topics,1,0.005,dans,
+words,20180417_1554,topics,1,0.005,sur,
+words,20180417_1554,topics,1,0.005,pp,
+words,20180417_1554,topics,2,0.011,matrix,algebra
+words,20180417_1554,topics,2,0.008,points,
+words,20180417_1554,topics,2,0.007,polynomial,algebra
+words,20180417_1554,topics,2,0.007,line,
+words,20180417_1554,topics,2,0.006,polynomials,algebra
+words,20180417_1554,topics,2,0.006,code,
+words,20180417_1554,topics,2,0.005,point,
+words,20180417_1554,topics,2,0.005,length,
+words,20180417_1554,topics,2,0.005,sequence,number theory
+words,20180417_1554,topics,2,0.005,weight,
+words,20180417_1554,topics,2,0.005,codes,
+words,20180417_1554,topics,2,0.005,linear,
+words,20180417_1554,topics,2,0.005,lines,
+words,20180417_1554,topics,2,0.005,numbers,
+words,20180417_1554,topics,2,0.005,matrices,algebra
+words,20180417_1554,topics,2,0.004,integer,
+words,20180417_1554,topics,2,0.004,function,algebra
+words,20180417_1554,topics,2,0.004,pg,
+words,20180417_1554,topics,2,0.004,row,
+words,20180417_1554,topics,2,0.004,fig,
+words,20180417_1554,topics,3,0.011,finite,
+words,20180417_1554,topics,3,0.009,defined,
+words,20180417_1554,topics,3,0.008,define,
+words,20180417_1554,topics,3,0.007,xi,
+words,20180417_1554,topics,3,0.007,element,set theory
+words,20180417_1554,topics,3,0.007,definition,
+words,20180417_1554,topics,3,0.006,elements,set theory
+words,20180417_1554,topics,3,0.006,ai,
+words,20180417_1554,topics,3,0.006,pi,
+words,20180417_1554,topics,3,0.006,cl,
+words,20180417_1554,topics,3,0.005,subset,set theory
+words,20180417_1554,topics,3,0.004,fi,
+words,20180417_1554,topics,3,0.004,maximal,
+words,20180417_1554,topics,3,0.004,infinite,
+words,20180417_1554,topics,3,0.004,fl,
+words,20180417_1554,topics,3,0.004,sequence,number theory
+words,20180417_1554,topics,3,0.004,ti,
+words,20180417_1554,topics,3,0.004,satisfies,
+words,20180417_1554,topics,3,0.004,interval,
+words,20180417_1554,topics,3,0.003,ci,
+words,20180417_1554,topics,4,0.035,graphs,graph theory
+words,20180417_1554,topics,4,0.033,vertex,graph theory
+words,20180417_1554,topics,4,0.03,vertices,graph theory
+words,20180417_1554,topics,4,0.018,connected,graph theory
+words,20180417_1554,topics,4,0.016,path,
+words,20180417_1554,topics,4,0.015,cycle,graph theory
+words,20180417_1554,topics,4,0.013,edge,graph theory
+words,20180417_1554,topics,4,0.01,adjacent,
+words,20180417_1554,topics,4,0.009,degree,graph theory
+words,20180417_1554,topics,4,0.008,subgraph,graph theory
+words,20180417_1554,topics,4,0.008,edges,graph theory
+words,20180417_1554,topics,4,0.007,induced,
+words,20180417_1554,topics,4,0.007,vi,
+words,20180417_1554,topics,4,0.007,contradiction,
+words,20180417_1554,topics,4,0.006,xi,
+words,20180417_1554,topics,4,0.006,cycles,
+words,20180417_1554,topics,4,0.006,hamiltonian,graph theory
+words,20180417_1554,topics,4,0.006,length,
+words,20180417_1554,topics,4,0.006,claim,
+words,20180417_1554,topics,4,0.006,free,
+words,20180417_1554,topics,5,0.012,algebra,algebra
+words,20180417_1554,topics,5,0.01,map,
+words,20180417_1554,topics,5,0.009,group,
+words,20180417_1554,topics,5,0.008,proposition,
+words,20180417_1554,topics,5,0.008,category,category theory
+words,20180417_1554,topics,5,0.006,algebras,algebra
+words,20180417_1554,topics,5,0.006,advances,
+words,20180417_1554,topics,5,0.006,isomorphism,algebra
+words,20180417_1554,topics,5,0.006,module,
+words,20180417_1554,topics,5,0.005,ﬁnite,
+words,20180417_1554,topics,5,0.005,ring,algebra
+words,20180417_1554,topics,5,0.005,groups,algebra
+words,20180417_1554,topics,5,0.005,structure,
+words,20180417_1554,topics,5,0.004,morphism,algebra
+words,20180417_1554,topics,5,0.004,complex,
+words,20180417_1554,topics,5,0.004,maps,
+words,20180417_1554,topics,5,0.004,functor,category theory
+words,20180417_1554,topics,5,0.004,action,
+words,20180417_1554,topics,5,0.004,left,
+words,20180417_1554,topics,5,0.004,modules,
+words,20180417_1554,topics,6,0.024,vertices,graph theory
+words,20180417_1554,topics,6,0.023,edges,graph theory
+words,20180417_1554,topics,6,0.022,edge,graph theory
+words,20180417_1554,topics,6,0.022,vertex,graph theory
+words,20180417_1554,topics,6,0.018,graphs,graph theory
+words,20180417_1554,topics,6,0.012,coloring,graph theory
+words,20180417_1554,topics,6,0.009,degree,
+words,20180417_1554,topics,6,0.009,fig,
+words,20180417_1554,topics,6,0.008,color,graph theory
+words,20180417_1554,topics,6,0.006,planar,graph theory
+words,20180417_1554,topics,6,0.006,chromatic,graph theory
+words,20180417_1554,topics,6,0.005,colors,graph theory
+words,20180417_1554,topics,6,0.005,face,
+words,20180417_1554,topics,6,0.005,incident,
+words,20180417_1554,topics,6,0.005,bound,
+words,20180417_1554,topics,6,0.004,maximum,
+words,20180417_1554,topics,6,0.004,connected,graph theory
+words,20180417_1554,topics,6,0.004,adjacent,
+words,20180417_1554,topics,6,0.004,cycle,graph theory
+words,20180417_1554,topics,6,0.004,size,
+words,20180417_1554,topics,7,0.016,solution,
+words,20180417_1554,topics,7,0.013,equation,
+words,20180417_1554,topics,7,0.012,equations,
+words,20180417_1554,topics,7,0.011,solutions,
+words,20180417_1554,topics,7,0.01,function,algebra
+words,20180417_1554,topics,7,0.009,november,
+words,20180417_1554,topics,7,0.008,dx,analysis
+words,20180417_1554,topics,7,0.008,rn,
+words,20180417_1554,topics,7,0.007,analysis,analysis
+words,20180417_1554,topics,7,0.007,wisconsin,
+words,20180417_1554,topics,7,0.007,madison,
+words,20180417_1554,topics,7,0.007,boundary,
+words,20180417_1554,topics,7,0.007,downloaded,
+words,20180417_1554,topics,7,0.006,system,
+words,20180417_1554,topics,7,0.006,problems,
+words,20180417_1554,topics,7,0.006,functions,algebra
+words,20180417_1554,topics,7,0.005,time,
+words,20180417_1554,topics,7,0.005,operator,
+words,20180417_1554,topics,7,0.005,differential,analysis
+words,20180417_1554,topics,7,0.005,method,
+words,20180417_1554,topics,8,0.011,advances,
+words,20180417_1554,topics,8,0.008,function,algebra
+words,20180417_1554,topics,8,0.006,log,
+words,20180417_1554,topics,8,0.006,point,
+words,20180417_1554,topics,8,0.006,proposition,
+words,20180417_1554,topics,8,0.005,deﬁned,
+words,20180417_1554,topics,8,0.005,space,
+words,20180417_1554,topics,8,0.005,deﬁnition,
+words,20180417_1554,topics,8,0.005,functions,algebra
+words,20180417_1554,topics,8,0.004,ﬁrst,
+words,20180417_1554,topics,8,0.004,deﬁne,
+words,20180417_1554,topics,8,0.004,rn,
+words,20180417_1554,topics,8,0.004,smooth,
+words,20180417_1554,topics,8,0.004,constant,
+words,20180417_1554,topics,8,0.004,positive,
+words,20180417_1554,topics,8,0.004,map,
+words,20180417_1554,topics,8,0.004,al,
+words,20180417_1554,topics,8,0.003,points,
+words,20180417_1554,topics,8,0.003,sn,
+words,20180417_1554,topics,8,0.003,manifold,topology
+words,20180417_1554,topics,9,0.02,space,
+words,20180417_1554,topics,9,0.014,spaces,
+words,20180417_1554,topics,9,0.01,madison,
+words,20180417_1554,topics,9,0.01,wisconsin,
+words,20180417_1554,topics,9,0.01,december,
+words,20180417_1554,topics,9,0.009,downloaded,
+words,20180417_1554,topics,9,0.009,continuous,analysis
+words,20180417_1554,topics,9,0.008,xn,
+words,20180417_1554,topics,9,0.008,closed,
+words,20180417_1554,topics,9,0.008,compact,topology
+words,20180417_1554,topics,9,0.007,sequence,number theory
+words,20180417_1554,topics,9,0.007,banach,analysis
+words,20180417_1554,topics,9,0.006,operator,
+words,20180417_1554,topics,9,0.006,function,algebra
+words,20180417_1554,topics,9,0.006,article,
+words,20180417_1554,topics,9,0.006,bounded,
+words,20180417_1554,topics,9,0.005,proposition,
+words,20180417_1554,topics,9,0.005,open,
+words,20180417_1554,topics,9,0.005,operators,
+words,20180417_1554,topics,9,0.005,functions,algebra

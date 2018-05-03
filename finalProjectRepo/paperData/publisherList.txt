@@ -1,0 +1,9 @@
+Elsevier total count: 16887
+    Discrete Mathematics: 12650
+    Advances in Mathematics: 4237
+Wiley total count: 2146
+    Journal of Graph Theory: 1860
+    Journal of the London Mathematical Society: 286
+Taylor and Francis total count: 3364
+    Applicable Analysis: 2093
+    Quaestiones Mathematicae: 1271
