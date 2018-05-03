@@ -28,8 +28,8 @@ def modelTopics(runType):
             # parse document into a list of utf8 tokens
             # cur=conn.cursor
             sql='select array_to_string(array_agg(sentence),\' \') as sentences ' \
-                'from (SELECT docid, array_to_string(words, \' \') as sentence ' \
-                'FROM sentences) as s where docid=\'{}\' ;'.format(x)
+                'from (SELECT docid, array_to_string({}, \' \') as sentence ' \
+                'FROM sentences) as s where docid=\'{}\' ;'.format(runType,x)
             # cur.execute(sql)
             cursor = conn.cursor()
             cursor.execute(sql)
@@ -80,7 +80,7 @@ def modelTopics(runType):
     #build the corpus
     corpus=trainingCorpus(corpusIDs)
     # point gensim lda wrapper at mallet
-    malletPath = '/Users/samuelhansen/Downloads/mallet-2.0.8/bin/mallet'
+    malletPath = ''
     # create the model
     model = models.wrappers.LdaMallet(malletPath, corpus, num_topics=10, id2word=corpus.dictionary)
     with open(fileDir + '/' + 'topics.txt','a') as topicFile:
